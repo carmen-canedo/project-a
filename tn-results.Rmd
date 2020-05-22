@@ -1,0 +1,26 @@
+---
+title: "Project A"
+output: html_notebook
+editor_options: 
+  chunk_output_type: inline
+---
+
+# Loading libraries
+```{r}
+library(mdsr)
+```
+
+
+# Load in data
+```{r}
+county_results <- read.csv("countypres_2000-2016.csv")
+```
+
+# Cleaning data
+Filtering for Tennessee
+```{r}
+county_results <- county_results %>% 
+  filter(state == "Tennessee") %>% 
+  select(-state_po, -office)
+```
+
