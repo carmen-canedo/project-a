@@ -1,0 +1,1521 @@
+year,state,county,FIPS,candidate,party,candidatevotes,totalvotes,version
+2000,Tennessee,Anderson,47001,Al Gore,democrat,13556,28779,20191203
+2000,Tennessee,Anderson,47001,George W. Bush,republican,14688,28779,20191203
+2000,Tennessee,Anderson,47001,Ralph Nader,green,316,28779,20191203
+2000,Tennessee,Anderson,47001,Other,NA,219,28779,20191203
+2000,Tennessee,Bedford,47003,Al Gore,democrat,6136,12207,20191203
+2000,Tennessee,Bedford,47003,George W. Bush,republican,5911,12207,20191203
+2000,Tennessee,Bedford,47003,Ralph Nader,green,80,12207,20191203
+2000,Tennessee,Bedford,47003,Other,NA,80,12207,20191203
+2000,Tennessee,Benton,47005,Al Gore,democrat,3700,6311,20191203
+2000,Tennessee,Benton,47005,George W. Bush,republican,2484,6311,20191203
+2000,Tennessee,Benton,47005,Ralph Nader,green,62,6311,20191203
+2000,Tennessee,Benton,47005,Other,NA,65,6311,20191203
+2000,Tennessee,Bledsoe,47007,Al Gore,democrat,1756,4196,20191203
+2000,Tennessee,Bledsoe,47007,George W. Bush,republican,2380,4196,20191203
+2000,Tennessee,Bledsoe,47007,Ralph Nader,green,35,4196,20191203
+2000,Tennessee,Bledsoe,47007,Other,NA,25,4196,20191203
+2000,Tennessee,Blount,47009,Al Gore,democrat,14688,40662,20191203
+2000,Tennessee,Blount,47009,George W. Bush,republican,25273,40662,20191203
+2000,Tennessee,Blount,47009,Ralph Nader,green,379,40662,20191203
+2000,Tennessee,Blount,47009,Other,NA,322,40662,20191203
+2000,Tennessee,Bradley,47011,Al Gore,democrat,8768,29443,20191203
+2000,Tennessee,Bradley,47011,George W. Bush,republican,20167,29443,20191203
+2000,Tennessee,Bradley,47011,Ralph Nader,green,271,29443,20191203
+2000,Tennessee,Bradley,47011,Other,NA,237,29443,20191203
+2000,Tennessee,Campbell,47013,Al Gore,democrat,6492,12421,20191203
+2000,Tennessee,Campbell,47013,George W. Bush,republican,5784,12421,20191203
+2000,Tennessee,Campbell,47013,Ralph Nader,green,74,12421,20191203
+2000,Tennessee,Campbell,47013,Other,NA,71,12421,20191203
+2000,Tennessee,Cannon,47015,Al Gore,democrat,2697,4697,20191203
+2000,Tennessee,Cannon,47015,George W. Bush,republican,1924,4697,20191203
+2000,Tennessee,Cannon,47015,Ralph Nader,green,45,4697,20191203
+2000,Tennessee,Cannon,47015,Other,NA,31,4697,20191203
+2000,Tennessee,Carroll,47017,Al Gore,democrat,5239,10827,20191203
+2000,Tennessee,Carroll,47017,George W. Bush,republican,5465,10827,20191203
+2000,Tennessee,Carroll,47017,Ralph Nader,green,65,10827,20191203
+2000,Tennessee,Carroll,47017,Other,NA,58,10827,20191203
+2000,Tennessee,Carter,47019,Al Gore,democrat,6724,19102,20191203
+2000,Tennessee,Carter,47019,George W. Bush,republican,12111,19102,20191203
+2000,Tennessee,Carter,47019,Ralph Nader,green,157,19102,20191203
+2000,Tennessee,Carter,47019,Other,NA,110,19102,20191203
+2000,Tennessee,Cheatham,47021,Al Gore,democrat,6062,12616,20191203
+2000,Tennessee,Cheatham,47021,George W. Bush,republican,6356,12616,20191203
+2000,Tennessee,Cheatham,47021,Ralph Nader,green,139,12616,20191203
+2000,Tennessee,Cheatham,47021,Other,NA,59,12616,20191203
+2000,Tennessee,Chester,47023,Al Gore,democrat,2192,5728,20191203
+2000,Tennessee,Chester,47023,George W. Bush,republican,3487,5728,20191203
+2000,Tennessee,Chester,47023,Ralph Nader,green,25,5728,20191203
+2000,Tennessee,Chester,47023,Other,NA,24,5728,20191203
+2000,Tennessee,Claiborne,47025,Al Gore,democrat,3841,9000,20191203
+2000,Tennessee,Claiborne,47025,George W. Bush,republican,5023,9000,20191203
+2000,Tennessee,Claiborne,47025,Ralph Nader,green,60,9000,20191203
+2000,Tennessee,Claiborne,47025,Other,NA,76,9000,20191203
+2000,Tennessee,Clay,47027,Al Gore,democrat,1931,3442,20191203
+2000,Tennessee,Clay,47027,George W. Bush,republican,1468,3442,20191203
+2000,Tennessee,Clay,47027,Ralph Nader,green,19,3442,20191203
+2000,Tennessee,Clay,47027,Other,NA,24,3442,20191203
+2000,Tennessee,Cocke,47029,Al Gore,democrat,3872,10239,20191203
+2000,Tennessee,Cocke,47029,George W. Bush,republican,6185,10239,20191203
+2000,Tennessee,Cocke,47029,Ralph Nader,green,93,10239,20191203
+2000,Tennessee,Cocke,47029,Other,NA,89,10239,20191203
+2000,Tennessee,Coffee,47031,Al Gore,democrat,8741,17788,20191203
+2000,Tennessee,Coffee,47031,George W. Bush,republican,8788,17788,20191203
+2000,Tennessee,Coffee,47031,Ralph Nader,green,151,17788,20191203
+2000,Tennessee,Coffee,47031,Other,NA,108,17788,20191203
+2000,Tennessee,Crockett,47033,Al Gore,democrat,2705,5440,20191203
+2000,Tennessee,Crockett,47033,George W. Bush,republican,2676,5440,20191203
+2000,Tennessee,Crockett,47033,Ralph Nader,green,42,5440,20191203
+2000,Tennessee,Crockett,47033,Other,NA,17,5440,20191203
+2000,Tennessee,Cumberland,47035,Al Gore,democrat,7644,19017,20191203
+2000,Tennessee,Cumberland,47035,George W. Bush,republican,10994,19017,20191203
+2000,Tennessee,Cumberland,47035,Ralph Nader,green,223,19017,20191203
+2000,Tennessee,Cumberland,47035,Other,NA,156,19017,20191203
+2000,Tennessee,Davidson,47037,Al Gore,democrat,120508,208588,20191203
+2000,Tennessee,Davidson,47037,George W. Bush,republican,84117,208588,20191203
+2000,Tennessee,Davidson,47037,Ralph Nader,green,2920,208588,20191203
+2000,Tennessee,Davidson,47037,Other,NA,1043,208588,20191203
+2000,Tennessee,Decatur,47039,Al Gore,democrat,2278,4370,20191203
+2000,Tennessee,Decatur,47039,George W. Bush,republican,2046,4370,20191203
+2000,Tennessee,Decatur,47039,Ralph Nader,green,22,4370,20191203
+2000,Tennessee,Decatur,47039,Other,NA,24,4370,20191203
+2000,Tennessee,DeKalb,47041,Al Gore,democrat,3765,6265,20191203
+2000,Tennessee,DeKalb,47041,George W. Bush,republican,2411,6265,20191203
+2000,Tennessee,DeKalb,47041,Ralph Nader,green,63,6265,20191203
+2000,Tennessee,DeKalb,47041,Other,NA,26,6265,20191203
+2000,Tennessee,Dickson,47043,Al Gore,democrat,8332,15556,20191203
+2000,Tennessee,Dickson,47043,George W. Bush,republican,7016,15556,20191203
+2000,Tennessee,Dickson,47043,Ralph Nader,green,120,15556,20191203
+2000,Tennessee,Dickson,47043,Other,NA,88,15556,20191203
+2000,Tennessee,Dyer,47045,Al Gore,democrat,5425,11841,20191203
+2000,Tennessee,Dyer,47045,George W. Bush,republican,6282,11841,20191203
+2000,Tennessee,Dyer,47045,Ralph Nader,green,88,11841,20191203
+2000,Tennessee,Dyer,47045,Other,NA,46,11841,20191203
+2000,Tennessee,Fayette,47047,Al Gore,democrat,5037,11529,20191203
+2000,Tennessee,Fayette,47047,George W. Bush,republican,6402,11529,20191203
+2000,Tennessee,Fayette,47047,Ralph Nader,green,44,11529,20191203
+2000,Tennessee,Fayette,47047,Other,NA,46,11529,20191203
+2000,Tennessee,Fentress,47049,Al Gore,democrat,2529,6029,20191203
+2000,Tennessee,Fentress,47049,George W. Bush,republican,3417,6029,20191203
+2000,Tennessee,Fentress,47049,Ralph Nader,green,28,6029,20191203
+2000,Tennessee,Fentress,47049,Other,NA,55,6029,20191203
+2000,Tennessee,Franklin,47051,Al Gore,democrat,7828,14691,20191203
+2000,Tennessee,Franklin,47051,George W. Bush,republican,6560,14691,20191203
+2000,Tennessee,Franklin,47051,Ralph Nader,green,190,14691,20191203
+2000,Tennessee,Franklin,47051,Other,NA,113,14691,20191203
+2000,Tennessee,Gibson,47053,Al Gore,democrat,8663,17137,20191203
+2000,Tennessee,Gibson,47053,George W. Bush,republican,8286,17137,20191203
+2000,Tennessee,Gibson,47053,Ralph Nader,green,101,17137,20191203
+2000,Tennessee,Gibson,47053,Other,NA,87,17137,20191203
+2000,Tennessee,Giles,47055,Al Gore,democrat,5527,10066,20191203
+2000,Tennessee,Giles,47055,George W. Bush,republican,4377,10066,20191203
+2000,Tennessee,Giles,47055,Ralph Nader,green,79,10066,20191203
+2000,Tennessee,Giles,47055,Other,NA,83,10066,20191203
+2000,Tennessee,Grainger,47057,Al Gore,democrat,2361,6194,20191203
+2000,Tennessee,Grainger,47057,George W. Bush,republican,3746,6194,20191203
+2000,Tennessee,Grainger,47057,Ralph Nader,green,46,6194,20191203
+2000,Tennessee,Grainger,47057,Other,NA,41,6194,20191203
+2000,Tennessee,Greene,47059,Al Gore,democrat,7909,20816,20191203
+2000,Tennessee,Greene,47059,George W. Bush,republican,12540,20816,20191203
+2000,Tennessee,Greene,47059,Ralph Nader,green,185,20816,20191203
+2000,Tennessee,Greene,47059,Other,NA,182,20816,20191203
+2000,Tennessee,Grundy,47061,Al Gore,democrat,2970,4596,20191203
+2000,Tennessee,Grundy,47061,George W. Bush,republican,1553,4596,20191203
+2000,Tennessee,Grundy,47061,Ralph Nader,green,37,4596,20191203
+2000,Tennessee,Grundy,47061,Other,NA,36,4596,20191203
+2000,Tennessee,Hamblen,47063,Al Gore,democrat,7564,19699,20191203
+2000,Tennessee,Hamblen,47063,George W. Bush,republican,11824,19699,20191203
+2000,Tennessee,Hamblen,47063,Ralph Nader,green,181,19699,20191203
+2000,Tennessee,Hamblen,47063,Other,NA,130,19699,20191203
+2000,Tennessee,Hamilton,47065,Al Gore,democrat,51708,120379,20191203
+2000,Tennessee,Hamilton,47065,George W. Bush,republican,66605,120379,20191203
+2000,Tennessee,Hamilton,47065,Ralph Nader,green,1290,120379,20191203
+2000,Tennessee,Hamilton,47065,Other,NA,776,120379,20191203
+2000,Tennessee,Hancock,47067,Al Gore,democrat,690,2075,20191203
+2000,Tennessee,Hancock,47067,George W. Bush,republican,1343,2075,20191203
+2000,Tennessee,Hancock,47067,Ralph Nader,green,17,2075,20191203
+2000,Tennessee,Hancock,47067,Other,NA,25,2075,20191203
+2000,Tennessee,Hardeman,47069,Al Gore,democrat,4953,8803,20191203
+2000,Tennessee,Hardeman,47069,George W. Bush,republican,3729,8803,20191203
+2000,Tennessee,Hardeman,47069,Ralph Nader,green,38,8803,20191203
+2000,Tennessee,Hardeman,47069,Other,NA,83,8803,20191203
+2000,Tennessee,Hardin,47071,Al Gore,democrat,3735,8782,20191203
+2000,Tennessee,Hardin,47071,George W. Bush,republican,4951,8782,20191203
+2000,Tennessee,Hardin,47071,Ralph Nader,green,49,8782,20191203
+2000,Tennessee,Hardin,47071,Other,NA,47,8782,20191203
+2000,Tennessee,Hawkins,47073,Al Gore,democrat,6753,17098,20191203
+2000,Tennessee,Hawkins,47073,George W. Bush,republican,10071,17098,20191203
+2000,Tennessee,Hawkins,47073,Ralph Nader,green,147,17098,20191203
+2000,Tennessee,Hawkins,47073,Other,NA,127,17098,20191203
+2000,Tennessee,Haywood,47075,Al Gore,democrat,3887,6478,20191203
+2000,Tennessee,Haywood,47075,George W. Bush,republican,2554,6478,20191203
+2000,Tennessee,Haywood,47075,Ralph Nader,green,20,6478,20191203
+2000,Tennessee,Haywood,47075,Other,NA,17,6478,20191203
+2000,Tennessee,Henderson,47077,Al Gore,democrat,3166,8399,20191203
+2000,Tennessee,Henderson,47077,George W. Bush,republican,5153,8399,20191203
+2000,Tennessee,Henderson,47077,Ralph Nader,green,46,8399,20191203
+2000,Tennessee,Henderson,47077,Other,NA,34,8399,20191203
+2000,Tennessee,Henry,47079,Al Gore,democrat,6093,12309,20191203
+2000,Tennessee,Henry,47079,George W. Bush,republican,5944,12309,20191203
+2000,Tennessee,Henry,47079,Ralph Nader,green,125,12309,20191203
+2000,Tennessee,Henry,47079,Other,NA,147,12309,20191203
+2000,Tennessee,Hickman,47081,Al Gore,democrat,4239,7264,20191203
+2000,Tennessee,Hickman,47081,George W. Bush,republican,2914,7264,20191203
+2000,Tennessee,Hickman,47081,Ralph Nader,green,58,7264,20191203
+2000,Tennessee,Hickman,47081,Other,NA,53,7264,20191203
+2000,Tennessee,Houston,47083,Al Gore,democrat,2081,3127,20191203
+2000,Tennessee,Houston,47083,George W. Bush,republican,993,3127,20191203
+2000,Tennessee,Houston,47083,Ralph Nader,green,16,3127,20191203
+2000,Tennessee,Houston,47083,Other,NA,37,3127,20191203
+2000,Tennessee,Humphreys,47085,Al Gore,democrat,4205,6681,20191203
+2000,Tennessee,Humphreys,47085,George W. Bush,republican,2387,6681,20191203
+2000,Tennessee,Humphreys,47085,Ralph Nader,green,65,6681,20191203
+2000,Tennessee,Humphreys,47085,Other,NA,24,6681,20191203
+2000,Tennessee,Jackson,47087,Al Gore,democrat,3304,4754,20191203
+2000,Tennessee,Jackson,47087,George W. Bush,republican,1384,4754,20191203
+2000,Tennessee,Jackson,47087,Ralph Nader,green,36,4754,20191203
+2000,Tennessee,Jackson,47087,Other,NA,30,4754,20191203
+2000,Tennessee,Jefferson,47089,Al Gore,democrat,5226,14087,20191203
+2000,Tennessee,Jefferson,47089,George W. Bush,republican,8657,14087,20191203
+2000,Tennessee,Jefferson,47089,Ralph Nader,green,121,14087,20191203
+2000,Tennessee,Jefferson,47089,Other,NA,83,14087,20191203
+2000,Tennessee,Johnson,47091,Al Gore,democrat,1813,5657,20191203
+2000,Tennessee,Johnson,47091,George W. Bush,republican,3740,5657,20191203
+2000,Tennessee,Johnson,47091,Ralph Nader,green,54,5657,20191203
+2000,Tennessee,Johnson,47091,Other,NA,50,5657,20191203
+2000,Tennessee,Knox,47093,Al Gore,democrat,60969,150586,20191203
+2000,Tennessee,Knox,47093,George W. Bush,republican,86851,150586,20191203
+2000,Tennessee,Knox,47093,Ralph Nader,green,1772,150586,20191203
+2000,Tennessee,Knox,47093,Other,NA,994,150586,20191203
+2000,Tennessee,Lake,47095,Al Gore,democrat,1419,2224,20191203
+2000,Tennessee,Lake,47095,George W. Bush,republican,781,2224,20191203
+2000,Tennessee,Lake,47095,Ralph Nader,green,11,2224,20191203
+2000,Tennessee,Lake,47095,Other,NA,13,2224,20191203
+2000,Tennessee,Lauderdale,47097,Al Gore,democrat,4224,7618,20191203
+2000,Tennessee,Lauderdale,47097,George W. Bush,republican,3329,7618,20191203
+2000,Tennessee,Lauderdale,47097,Ralph Nader,green,27,7618,20191203
+2000,Tennessee,Lauderdale,47097,Other,NA,38,7618,20191203
+2000,Tennessee,Lawrence,47099,Al Gore,democrat,6643,14470,20191203
+2000,Tennessee,Lawrence,47099,George W. Bush,republican,7613,14470,20191203
+2000,Tennessee,Lawrence,47099,Ralph Nader,green,98,14470,20191203
+2000,Tennessee,Lawrence,47099,Other,NA,116,14470,20191203
+2000,Tennessee,Lewis,47101,Al Gore,democrat,2281,4420,20191203
+2000,Tennessee,Lewis,47101,George W. Bush,republican,2037,4420,20191203
+2000,Tennessee,Lewis,47101,Ralph Nader,green,63,4420,20191203
+2000,Tennessee,Lewis,47101,Other,NA,39,4420,20191203
+2000,Tennessee,Lincoln,47103,Al Gore,democrat,5060,10659,20191203
+2000,Tennessee,Lincoln,47103,George W. Bush,republican,5435,10659,20191203
+2000,Tennessee,Lincoln,47103,Ralph Nader,green,72,10659,20191203
+2000,Tennessee,Lincoln,47103,Other,NA,92,10659,20191203
+2000,Tennessee,Loudon,47105,Al Gore,democrat,5905,16406,20191203
+2000,Tennessee,Loudon,47105,George W. Bush,republican,10266,16406,20191203
+2000,Tennessee,Loudon,47105,Ralph Nader,green,132,16406,20191203
+2000,Tennessee,Loudon,47105,Other,NA,103,16406,20191203
+2000,Tennessee,McMinn,47107,Al Gore,democrat,6142,16600,20191203
+2000,Tennessee,McMinn,47107,George W. Bush,republican,10155,16600,20191203
+2000,Tennessee,McMinn,47107,Ralph Nader,green,142,16600,20191203
+2000,Tennessee,McMinn,47107,Other,NA,161,16600,20191203
+2000,Tennessee,McNairy,47109,Al Gore,democrat,4003,8989,20191203
+2000,Tennessee,McNairy,47109,George W. Bush,republican,4897,8989,20191203
+2000,Tennessee,McNairy,47109,Ralph Nader,green,47,8989,20191203
+2000,Tennessee,McNairy,47109,Other,NA,42,8989,20191203
+2000,Tennessee,Macon,47111,Al Gore,democrat,3059,6491,20191203
+2000,Tennessee,Macon,47111,George W. Bush,republican,3366,6491,20191203
+2000,Tennessee,Macon,47111,Ralph Nader,green,30,6491,20191203
+2000,Tennessee,Macon,47111,Other,NA,36,6491,20191203
+2000,Tennessee,Madison,47113,Al Gore,democrat,15781,33930,20191203
+2000,Tennessee,Madison,47113,George W. Bush,republican,17862,33930,20191203
+2000,Tennessee,Madison,47113,Ralph Nader,green,173,33930,20191203
+2000,Tennessee,Madison,47113,Other,NA,114,33930,20191203
+2000,Tennessee,Marion,47115,Al Gore,democrat,5441,10250,20191203
+2000,Tennessee,Marion,47115,George W. Bush,republican,4651,10250,20191203
+2000,Tennessee,Marion,47115,Ralph Nader,green,74,10250,20191203
+2000,Tennessee,Marion,47115,Other,NA,84,10250,20191203
+2000,Tennessee,Marshall,47117,Al Gore,democrat,5107,9359,20191203
+2000,Tennessee,Marshall,47117,George W. Bush,republican,4105,9359,20191203
+2000,Tennessee,Marshall,47117,Ralph Nader,green,94,9359,20191203
+2000,Tennessee,Marshall,47117,Other,NA,53,9359,20191203
+2000,Tennessee,Maury,47119,Al Gore,democrat,11127,23400,20191203
+2000,Tennessee,Maury,47119,George W. Bush,republican,11930,23400,20191203
+2000,Tennessee,Maury,47119,Ralph Nader,green,207,23400,20191203
+2000,Tennessee,Maury,47119,Other,NA,136,23400,20191203
+2000,Tennessee,Meigs,47121,Al Gore,democrat,1555,3390,20191203
+2000,Tennessee,Meigs,47121,George W. Bush,republican,1797,3390,20191203
+2000,Tennessee,Meigs,47121,Ralph Nader,green,12,3390,20191203
+2000,Tennessee,Meigs,47121,Other,NA,26,3390,20191203
+2000,Tennessee,Monroe,47123,Al Gore,democrat,5327,13003,20191203
+2000,Tennessee,Monroe,47123,George W. Bush,republican,7514,13003,20191203
+2000,Tennessee,Monroe,47123,Ralph Nader,green,78,13003,20191203
+2000,Tennessee,Monroe,47123,Other,NA,84,13003,20191203
+2000,Tennessee,Montgomery,47125,Al Gore,democrat,18818,39044,20191203
+2000,Tennessee,Montgomery,47125,George W. Bush,republican,19644,39044,20191203
+2000,Tennessee,Montgomery,47125,Ralph Nader,green,359,39044,20191203
+2000,Tennessee,Montgomery,47125,Other,NA,223,39044,20191203
+2000,Tennessee,Moore,47127,Al Gore,democrat,1107,2301,20191203
+2000,Tennessee,Moore,47127,George W. Bush,republican,1145,2301,20191203
+2000,Tennessee,Moore,47127,Ralph Nader,green,27,2301,20191203
+2000,Tennessee,Moore,47127,Other,NA,22,2301,20191203
+2000,Tennessee,Morgan,47129,Al Gore,democrat,2921,6162,20191203
+2000,Tennessee,Morgan,47129,George W. Bush,republican,3144,6162,20191203
+2000,Tennessee,Morgan,47129,Ralph Nader,green,39,6162,20191203
+2000,Tennessee,Morgan,47129,Other,NA,58,6162,20191203
+2000,Tennessee,Obion,47131,Al Gore,democrat,6056,12440,20191203
+2000,Tennessee,Obion,47131,George W. Bush,republican,6168,12440,20191203
+2000,Tennessee,Obion,47131,Ralph Nader,green,99,12440,20191203
+2000,Tennessee,Obion,47131,Other,NA,117,12440,20191203
+2000,Tennessee,Overton,47133,Al Gore,democrat,4507,7496,20191203
+2000,Tennessee,Overton,47133,George W. Bush,republican,2875,7496,20191203
+2000,Tennessee,Overton,47133,Ralph Nader,green,46,7496,20191203
+2000,Tennessee,Overton,47133,Other,NA,68,7496,20191203
+2000,Tennessee,Perry,47135,Al Gore,democrat,1650,2866,20191203
+2000,Tennessee,Perry,47135,George W. Bush,republican,1165,2866,20191203
+2000,Tennessee,Perry,47135,Ralph Nader,green,28,2866,20191203
+2000,Tennessee,Perry,47135,Other,NA,23,2866,20191203
+2000,Tennessee,Pickett,47137,Al Gore,democrat,939,2239,20191203
+2000,Tennessee,Pickett,47137,George W. Bush,republican,1281,2239,20191203
+2000,Tennessee,Pickett,47137,Ralph Nader,green,12,2239,20191203
+2000,Tennessee,Pickett,47137,Other,NA,7,2239,20191203
+2000,Tennessee,Polk,47139,Al Gore,democrat,2574,5594,20191203
+2000,Tennessee,Polk,47139,George W. Bush,republican,2907,5594,20191203
+2000,Tennessee,Polk,47139,Ralph Nader,green,46,5594,20191203
+2000,Tennessee,Polk,47139,Other,NA,67,5594,20191203
+2000,Tennessee,Putnam,47141,Al Gore,democrat,10785,22438,20191203
+2000,Tennessee,Putnam,47141,George W. Bush,republican,11248,22438,20191203
+2000,Tennessee,Putnam,47141,Ralph Nader,green,228,22438,20191203
+2000,Tennessee,Putnam,47141,Other,NA,177,22438,20191203
+2000,Tennessee,Rhea,47143,Al Gore,democrat,3722,9772,20191203
+2000,Tennessee,Rhea,47143,George W. Bush,republican,5900,9772,20191203
+2000,Tennessee,Rhea,47143,Ralph Nader,green,74,9772,20191203
+2000,Tennessee,Rhea,47143,Other,NA,76,9772,20191203
+2000,Tennessee,Roane,47145,Al Gore,democrat,9575,21326,20191203
+2000,Tennessee,Roane,47145,George W. Bush,republican,11345,21326,20191203
+2000,Tennessee,Roane,47145,Ralph Nader,green,211,21326,20191203
+2000,Tennessee,Roane,47145,Other,NA,195,21326,20191203
+2000,Tennessee,Robertson,47147,Al Gore,democrat,10249,20164,20191203
+2000,Tennessee,Robertson,47147,George W. Bush,republican,9675,20164,20191203
+2000,Tennessee,Robertson,47147,Ralph Nader,green,148,20164,20191203
+2000,Tennessee,Robertson,47147,Other,NA,92,20164,20191203
+2000,Tennessee,Rutherford,47149,Al Gore,democrat,27360,62182,20191203
+2000,Tennessee,Rutherford,47149,George W. Bush,republican,33445,62182,20191203
+2000,Tennessee,Rutherford,47149,Ralph Nader,green,1024,62182,20191203
+2000,Tennessee,Rutherford,47149,Other,NA,353,62182,20191203
+2000,Tennessee,Scott,47151,Al Gore,democrat,2967,6615,20191203
+2000,Tennessee,Scott,47151,George W. Bush,republican,3579,6615,20191203
+2000,Tennessee,Scott,47151,Ralph Nader,green,31,6615,20191203
+2000,Tennessee,Scott,47151,Other,NA,38,6615,20191203
+2000,Tennessee,Sequatchie,47153,Al Gore,democrat,1648,3887,20191203
+2000,Tennessee,Sequatchie,47153,George W. Bush,republican,2169,3887,20191203
+2000,Tennessee,Sequatchie,47153,Ralph Nader,green,37,3887,20191203
+2000,Tennessee,Sequatchie,47153,Other,NA,33,3887,20191203
+2000,Tennessee,Sevier,47155,Al Gore,democrat,8208,25365,20191203
+2000,Tennessee,Sevier,47155,George W. Bush,republican,16734,25365,20191203
+2000,Tennessee,Sevier,47155,Ralph Nader,green,259,25365,20191203
+2000,Tennessee,Sevier,47155,Other,NA,164,25365,20191203
+2000,Tennessee,Shelby,47157,Al Gore,democrat,190404,336755,20191203
+2000,Tennessee,Shelby,47157,George W. Bush,republican,141756,336755,20191203
+2000,Tennessee,Shelby,47157,Ralph Nader,green,2860,336755,20191203
+2000,Tennessee,Shelby,47157,Other,NA,1735,336755,20191203
+2000,Tennessee,Smith,47159,Al Gore,democrat,4884,7348,20191203
+2000,Tennessee,Smith,47159,George W. Bush,republican,2384,7348,20191203
+2000,Tennessee,Smith,47159,Ralph Nader,green,42,7348,20191203
+2000,Tennessee,Smith,47159,Other,NA,38,7348,20191203
+2000,Tennessee,Stewart,47161,Al Gore,democrat,2870,4782,20191203
+2000,Tennessee,Stewart,47161,George W. Bush,republican,1826,4782,20191203
+2000,Tennessee,Stewart,47161,Ralph Nader,green,50,4782,20191203
+2000,Tennessee,Stewart,47161,Other,NA,36,4782,20191203
+2000,Tennessee,Sullivan,47163,Al Gore,democrat,21354,55727,20191203
+2000,Tennessee,Sullivan,47163,George W. Bush,republican,33482,55727,20191203
+2000,Tennessee,Sullivan,47163,Ralph Nader,green,520,55727,20191203
+2000,Tennessee,Sullivan,47163,Other,NA,371,55727,20191203
+2000,Tennessee,Sumner,47165,Al Gore,democrat,22118,50477,20191203
+2000,Tennessee,Sumner,47165,George W. Bush,republican,27601,50477,20191203
+2000,Tennessee,Sumner,47165,Ralph Nader,green,482,50477,20191203
+2000,Tennessee,Sumner,47165,Other,NA,276,50477,20191203
+2000,Tennessee,Tipton,47167,Al Gore,democrat,6300,16552,20191203
+2000,Tennessee,Tipton,47167,George W. Bush,republican,10070,16552,20191203
+2000,Tennessee,Tipton,47167,Ralph Nader,green,96,16552,20191203
+2000,Tennessee,Tipton,47167,Other,NA,86,16552,20191203
+2000,Tennessee,Trousdale,47169,Al Gore,democrat,1966,2945,20191203
+2000,Tennessee,Trousdale,47169,George W. Bush,republican,950,2945,20191203
+2000,Tennessee,Trousdale,47169,Ralph Nader,green,15,2945,20191203
+2000,Tennessee,Trousdale,47169,Other,NA,14,2945,20191203
+2000,Tennessee,Unicoi,47171,Al Gore,democrat,2566,6429,20191203
+2000,Tennessee,Unicoi,47171,George W. Bush,republican,3780,6429,20191203
+2000,Tennessee,Unicoi,47171,Ralph Nader,green,40,6429,20191203
+2000,Tennessee,Unicoi,47171,Other,NA,43,6429,20191203
+2000,Tennessee,Union,47173,Al Gore,democrat,2564,5821,20191203
+2000,Tennessee,Union,47173,George W. Bush,republican,3199,5821,20191203
+2000,Tennessee,Union,47173,Ralph Nader,green,30,5821,20191203
+2000,Tennessee,Union,47173,Other,NA,28,5821,20191203
+2000,Tennessee,Van Buren,47175,Al Gore,democrat,1255,2131,20191203
+2000,Tennessee,Van Buren,47175,George W. Bush,republican,845,2131,20191203
+2000,Tennessee,Van Buren,47175,Ralph Nader,green,8,2131,20191203
+2000,Tennessee,Van Buren,47175,Other,NA,23,2131,20191203
+2000,Tennessee,Warren,47177,Al Gore,democrat,7378,13131,20191203
+2000,Tennessee,Warren,47177,George W. Bush,republican,5552,13131,20191203
+2000,Tennessee,Warren,47177,Ralph Nader,green,105,13131,20191203
+2000,Tennessee,Warren,47177,Other,NA,96,13131,20191203
+2000,Tennessee,Washington,47179,Al Gore,democrat,14769,37942,20191203
+2000,Tennessee,Washington,47179,George W. Bush,republican,22579,37942,20191203
+2000,Tennessee,Washington,47179,Ralph Nader,green,375,37942,20191203
+2000,Tennessee,Washington,47179,Other,NA,219,37942,20191203
+2000,Tennessee,Wayne,47181,Al Gore,democrat,1859,5306,20191203
+2000,Tennessee,Wayne,47181,George W. Bush,republican,3370,5306,20191203
+2000,Tennessee,Wayne,47181,Ralph Nader,green,43,5306,20191203
+2000,Tennessee,Wayne,47181,Other,NA,34,5306,20191203
+2000,Tennessee,Weakley,47183,Al Gore,democrat,5570,11844,20191203
+2000,Tennessee,Weakley,47183,George W. Bush,republican,6106,11844,20191203
+2000,Tennessee,Weakley,47183,Ralph Nader,green,91,11844,20191203
+2000,Tennessee,Weakley,47183,Other,NA,77,11844,20191203
+2000,Tennessee,White,47185,Al Gore,democrat,4135,7775,20191203
+2000,Tennessee,White,47185,George W. Bush,republican,3525,7775,20191203
+2000,Tennessee,White,47185,Ralph Nader,green,58,7775,20191203
+2000,Tennessee,White,47185,Other,NA,57,7775,20191203
+2000,Tennessee,Williamson,47187,Al Gore,democrat,18745,58429,20191203
+2000,Tennessee,Williamson,47187,George W. Bush,republican,38901,58429,20191203
+2000,Tennessee,Williamson,47187,Ralph Nader,green,536,58429,20191203
+2000,Tennessee,Williamson,47187,Other,NA,247,58429,20191203
+2000,Tennessee,Wilson,47189,Al Gore,democrat,16561,35916,20191203
+2000,Tennessee,Wilson,47189,George W. Bush,republican,18844,35916,20191203
+2000,Tennessee,Wilson,47189,Ralph Nader,green,308,35916,20191203
+2000,Tennessee,Wilson,47189,Other,NA,203,35916,20191203
+2004,Tennessee,Anderson,47001,John Kerry,democrat,12896,31682,20191203
+2004,Tennessee,Anderson,47001,George W. Bush,republican,18510,31682,20191203
+2004,Tennessee,Anderson,47001,Other,NA,276,31682,20191203
+2004,Tennessee,Bedford,47003,John Kerry,democrat,5261,13696,20191203
+2004,Tennessee,Bedford,47003,George W. Bush,republican,8348,13696,20191203
+2004,Tennessee,Bedford,47003,Other,NA,87,13696,20191203
+2004,Tennessee,Benton,47005,John Kerry,democrat,3869,7090,20191203
+2004,Tennessee,Benton,47005,George W. Bush,republican,3161,7090,20191203
+2004,Tennessee,Benton,47005,Other,NA,60,7090,20191203
+2004,Tennessee,Bledsoe,47007,John Kerry,democrat,1927,4800,20191203
+2004,Tennessee,Bledsoe,47007,George W. Bush,republican,2849,4800,20191203
+2004,Tennessee,Bledsoe,47007,Other,NA,24,4800,20191203
+2004,Tennessee,Blount,47009,John Kerry,democrat,15042,48710,20191203
+2004,Tennessee,Blount,47009,George W. Bush,republican,33240,48710,20191203
+2004,Tennessee,Blount,47009,Other,NA,428,48710,20191203
+2004,Tennessee,Bradley,47011,John Kerry,democrat,9426,35623,20191203
+2004,Tennessee,Bradley,47011,George W. Bush,republican,25942,35623,20191203
+2004,Tennessee,Bradley,47011,Other,NA,255,35623,20191203
+2004,Tennessee,Campbell,47013,John Kerry,democrat,6163,14118,20191203
+2004,Tennessee,Campbell,47013,George W. Bush,republican,7859,14118,20191203
+2004,Tennessee,Campbell,47013,Other,NA,96,14118,20191203
+2004,Tennessee,Cannon,47015,John Kerry,democrat,2510,5467,20191203
+2004,Tennessee,Cannon,47015,George W. Bush,republican,2923,5467,20191203
+2004,Tennessee,Cannon,47015,Other,NA,34,5467,20191203
+2004,Tennessee,Carroll,47017,John Kerry,democrat,5070,11755,20191203
+2004,Tennessee,Carroll,47017,George W. Bush,republican,6603,11755,20191203
+2004,Tennessee,Carroll,47017,Other,NA,82,11755,20191203
+2004,Tennessee,Carter,47019,John Kerry,democrat,6390,22302,20191203
+2004,Tennessee,Carter,47019,George W. Bush,republican,15763,22302,20191203
+2004,Tennessee,Carter,47019,Other,NA,149,22302,20191203
+2004,Tennessee,Cheatham,47021,John Kerry,democrat,5918,15697,20191203
+2004,Tennessee,Cheatham,47021,George W. Bush,republican,9676,15697,20191203
+2004,Tennessee,Cheatham,47021,Other,NA,103,15697,20191203
+2004,Tennessee,Chester,47023,John Kerry,democrat,2182,6297,20191203
+2004,Tennessee,Chester,47023,George W. Bush,republican,4086,6297,20191203
+2004,Tennessee,Chester,47023,Other,NA,29,6297,20191203
+2004,Tennessee,Claiborne,47025,John Kerry,democrat,4033,10538,20191203
+2004,Tennessee,Claiborne,47025,George W. Bush,republican,6447,10538,20191203
+2004,Tennessee,Claiborne,47025,Other,NA,58,10538,20191203
+2004,Tennessee,Clay,47027,John Kerry,democrat,1673,3352,20191203
+2004,Tennessee,Clay,47027,George W. Bush,republican,1647,3352,20191203
+2004,Tennessee,Clay,47027,Other,NA,32,3352,20191203
+2004,Tennessee,Cocke,47029,John Kerry,democrat,3932,12301,20191203
+2004,Tennessee,Cocke,47029,George W. Bush,republican,8290,12301,20191203
+2004,Tennessee,Cocke,47029,Other,NA,79,12301,20191203
+2004,Tennessee,Coffee,47031,John Kerry,democrat,8238,20154,20191203
+2004,Tennessee,Coffee,47031,George W. Bush,republican,11785,20154,20191203
+2004,Tennessee,Coffee,47031,Other,NA,131,20154,20191203
+2004,Tennessee,Crockett,47033,John Kerry,democrat,2455,5715,20191203
+2004,Tennessee,Crockett,47033,George W. Bush,republican,3239,5715,20191203
+2004,Tennessee,Crockett,47033,Other,NA,21,5715,20191203
+2004,Tennessee,Cumberland,47035,John Kerry,democrat,8326,23634,20191203
+2004,Tennessee,Cumberland,47035,George W. Bush,republican,15142,23634,20191203
+2004,Tennessee,Cumberland,47035,Other,NA,166,23634,20191203
+2004,Tennessee,Davidson,47037,John Kerry,democrat,132362,241675,20191203
+2004,Tennessee,Davidson,47037,George W. Bush,republican,107618,241675,20191203
+2004,Tennessee,Davidson,47037,Other,NA,1695,241675,20191203
+2004,Tennessee,Decatur,47039,John Kerry,democrat,2268,4879,20191203
+2004,Tennessee,Decatur,47039,George W. Bush,republican,2566,4879,20191203
+2004,Tennessee,Decatur,47039,Other,NA,45,4879,20191203
+2004,Tennessee,DeKalb,47041,John Kerry,democrat,3445,7173,20191203
+2004,Tennessee,DeKalb,47041,George W. Bush,republican,3685,7173,20191203
+2004,Tennessee,DeKalb,47041,Other,NA,43,7173,20191203
+2004,Tennessee,Dickson,47043,John Kerry,democrat,8592,19283,20191203
+2004,Tennessee,Dickson,47043,George W. Bush,republican,10557,19283,20191203
+2004,Tennessee,Dickson,47043,Other,NA,134,19283,20191203
+2004,Tennessee,Dyer,47045,John Kerry,democrat,5287,13809,20191203
+2004,Tennessee,Dyer,47045,George W. Bush,republican,8447,13809,20191203
+2004,Tennessee,Dyer,47045,Other,NA,75,13809,20191203
+2004,Tennessee,Fayette,47047,John Kerry,democrat,5692,14731,20191203
+2004,Tennessee,Fayette,47047,George W. Bush,republican,8960,14731,20191203
+2004,Tennessee,Fayette,47047,Other,NA,79,14731,20191203
+2004,Tennessee,Fentress,47049,John Kerry,democrat,2371,6700,20191203
+2004,Tennessee,Fentress,47049,George W. Bush,republican,4293,6700,20191203
+2004,Tennessee,Fentress,47049,Other,NA,36,6700,20191203
+2004,Tennessee,Franklin,47051,John Kerry,democrat,7797,17070,20191203
+2004,Tennessee,Franklin,47051,George W. Bush,republican,9126,17070,20191203
+2004,Tennessee,Franklin,47051,Other,NA,147,17070,20191203
+2004,Tennessee,Gibson,47053,John Kerry,democrat,8509,19219,20191203
+2004,Tennessee,Gibson,47053,George W. Bush,republican,10596,19219,20191203
+2004,Tennessee,Gibson,47053,Other,NA,114,19219,20191203
+2004,Tennessee,Giles,47055,John Kerry,democrat,5273,11536,20191203
+2004,Tennessee,Giles,47055,George W. Bush,republican,6162,11536,20191203
+2004,Tennessee,Giles,47055,Other,NA,101,11536,20191203
+2004,Tennessee,Grainger,47057,John Kerry,democrat,2569,7525,20191203
+2004,Tennessee,Grainger,47057,George W. Bush,republican,4905,7525,20191203
+2004,Tennessee,Grainger,47057,Other,NA,51,7525,20191203
+2004,Tennessee,Greene,47059,John Kerry,democrat,7625,24172,20191203
+2004,Tennessee,Greene,47059,George W. Bush,republican,16374,24172,20191203
+2004,Tennessee,Greene,47059,Other,NA,173,24172,20191203
+2004,Tennessee,Grundy,47061,John Kerry,democrat,2787,4923,20191203
+2004,Tennessee,Grundy,47061,George W. Bush,republican,2102,4923,20191203
+2004,Tennessee,Grundy,47061,Other,NA,34,4923,20191203
+2004,Tennessee,Hamblen,47063,John Kerry,democrat,7426,22302,20191203
+2004,Tennessee,Hamblen,47063,George W. Bush,republican,14733,22302,20191203
+2004,Tennessee,Hamblen,47063,Other,NA,143,22302,20191203
+2004,Tennessee,Hamilton,47065,John Kerry,democrat,57268,136863,20191203
+2004,Tennessee,Hamilton,47065,George W. Bush,republican,78513,136863,20191203
+2004,Tennessee,Hamilton,47065,Other,NA,1082,136863,20191203
+2004,Tennessee,Hancock,47067,John Kerry,democrat,776,2550,20191203
+2004,Tennessee,Hancock,47067,George W. Bush,republican,1756,2550,20191203
+2004,Tennessee,Hancock,47067,Other,NA,18,2550,20191203
+2004,Tennessee,Hardeman,47069,John Kerry,democrat,5683,10462,20191203
+2004,Tennessee,Hardeman,47069,George W. Bush,republican,4702,10462,20191203
+2004,Tennessee,Hardeman,47069,Other,NA,77,10462,20191203
+2004,Tennessee,Hardin,47071,John Kerry,democrat,3834,9954,20191203
+2004,Tennessee,Hardin,47071,George W. Bush,republican,6087,9954,20191203
+2004,Tennessee,Hardin,47071,Other,NA,33,9954,20191203
+2004,Tennessee,Hawkins,47073,John Kerry,democrat,6683,20230,20191203
+2004,Tennessee,Hawkins,47073,George W. Bush,republican,13445,20230,20191203
+2004,Tennessee,Hawkins,47073,Other,NA,102,20230,20191203
+2004,Tennessee,Haywood,47075,John Kerry,democrat,4359,7548,20191203
+2004,Tennessee,Haywood,47075,George W. Bush,republican,3140,7548,20191203
+2004,Tennessee,Haywood,47075,Other,NA,49,7548,20191203
+2004,Tennessee,Henderson,47077,John Kerry,democrat,3448,10096,20191203
+2004,Tennessee,Henderson,47077,George W. Bush,republican,6585,10096,20191203
+2004,Tennessee,Henderson,47077,Other,NA,63,10096,20191203
+2004,Tennessee,Henry,47079,John Kerry,democrat,5728,12170,20191203
+2004,Tennessee,Henry,47079,George W. Bush,republican,6337,12170,20191203
+2004,Tennessee,Henry,47079,Other,NA,105,12170,20191203
+2004,Tennessee,Hickman,47081,John Kerry,democrat,4261,8671,20191203
+2004,Tennessee,Hickman,47081,George W. Bush,republican,4359,8671,20191203
+2004,Tennessee,Hickman,47081,Other,NA,51,8671,20191203
+2004,Tennessee,Houston,47083,John Kerry,democrat,2126,3593,20191203
+2004,Tennessee,Houston,47083,George W. Bush,republican,1438,3593,20191203
+2004,Tennessee,Houston,47083,Other,NA,29,3593,20191203
+2004,Tennessee,Humphreys,47085,John Kerry,democrat,4485,7793,20191203
+2004,Tennessee,Humphreys,47085,George W. Bush,republican,3261,7793,20191203
+2004,Tennessee,Humphreys,47085,Other,NA,47,7793,20191203
+2004,Tennessee,Jackson,47087,John Kerry,democrat,2996,5052,20191203
+2004,Tennessee,Jackson,47087,George W. Bush,republican,2024,5052,20191203
+2004,Tennessee,Jackson,47087,Other,NA,32,5052,20191203
+2004,Tennessee,Jefferson,47089,John Kerry,democrat,5469,17207,20191203
+2004,Tennessee,Jefferson,47089,George W. Bush,republican,11617,17207,20191203
+2004,Tennessee,Jefferson,47089,Other,NA,121,17207,20191203
+2004,Tennessee,Johnson,47091,John Kerry,democrat,1810,6476,20191203
+2004,Tennessee,Johnson,47091,George W. Bush,republican,4632,6476,20191203
+2004,Tennessee,Johnson,47091,Other,NA,34,6476,20191203
+2004,Tennessee,Knox,47093,John Kerry,democrat,65921,178175,20191203
+2004,Tennessee,Knox,47093,George W. Bush,republican,110653,178175,20191203
+2004,Tennessee,Knox,47093,Other,NA,1601,178175,20191203
+2004,Tennessee,Lake,47095,John Kerry,democrat,1039,2370,20191203
+2004,Tennessee,Lake,47095,George W. Bush,republican,1317,2370,20191203
+2004,Tennessee,Lake,47095,Other,NA,14,2370,20191203
+2004,Tennessee,Lauderdale,47097,John Kerry,democrat,4473,8681,20191203
+2004,Tennessee,Lauderdale,47097,George W. Bush,republican,4164,8681,20191203
+2004,Tennessee,Lauderdale,47097,Other,NA,44,8681,20191203
+2004,Tennessee,Lawrence,47099,John Kerry,democrat,6592,16651,20191203
+2004,Tennessee,Lawrence,47099,George W. Bush,republican,9952,16651,20191203
+2004,Tennessee,Lawrence,47099,Other,NA,107,16651,20191203
+2004,Tennessee,Lewis,47101,John Kerry,democrat,2191,5053,20191203
+2004,Tennessee,Lewis,47101,George W. Bush,republican,2819,5053,20191203
+2004,Tennessee,Lewis,47101,Other,NA,43,5053,20191203
+2004,Tennessee,Lincoln,47103,John Kerry,democrat,4546,12455,20191203
+2004,Tennessee,Lincoln,47103,George W. Bush,republican,7827,12455,20191203
+2004,Tennessee,Lincoln,47103,Other,NA,82,12455,20191203
+2004,Tennessee,Loudon,47105,John Kerry,democrat,5706,19862,20191203
+2004,Tennessee,Loudon,47105,George W. Bush,republican,14041,19862,20191203
+2004,Tennessee,Loudon,47105,Other,NA,115,19862,20191203
+2004,Tennessee,McMinn,47107,John Kerry,democrat,5889,17999,20191203
+2004,Tennessee,McMinn,47107,George W. Bush,republican,11978,17999,20191203
+2004,Tennessee,McMinn,47107,Other,NA,132,17999,20191203
+2004,Tennessee,McNairy,47109,John Kerry,democrat,4101,9924,20191203
+2004,Tennessee,McNairy,47109,George W. Bush,republican,5787,9924,20191203
+2004,Tennessee,McNairy,47109,Other,NA,36,9924,20191203
+2004,Tennessee,Macon,47111,John Kerry,democrat,2739,7434,20191203
+2004,Tennessee,Macon,47111,George W. Bush,republican,4670,7434,20191203
+2004,Tennessee,Macon,47111,Other,NA,25,7434,20191203
+2004,Tennessee,Madison,47113,John Kerry,democrat,16837,38665,20191203
+2004,Tennessee,Madison,47113,George W. Bush,republican,21672,38665,20191203
+2004,Tennessee,Madison,47113,Other,NA,156,38665,20191203
+2004,Tennessee,Marion,47115,John Kerry,democrat,5548,11492,20191203
+2004,Tennessee,Marion,47115,George W. Bush,republican,5862,11492,20191203
+2004,Tennessee,Marion,47115,Other,NA,82,11492,20191203
+2004,Tennessee,Marshall,47117,John Kerry,democrat,4722,10615,20191203
+2004,Tennessee,Marshall,47117,George W. Bush,republican,5825,10615,20191203
+2004,Tennessee,Marshall,47117,Other,NA,68,10615,20191203
+2004,Tennessee,Maury,47119,John Kerry,democrat,12372,30026,20191203
+2004,Tennessee,Maury,47119,George W. Bush,republican,17495,30026,20191203
+2004,Tennessee,Maury,47119,Other,NA,159,30026,20191203
+2004,Tennessee,Meigs,47121,John Kerry,democrat,1595,4131,20191203
+2004,Tennessee,Meigs,47121,George W. Bush,republican,2499,4131,20191203
+2004,Tennessee,Meigs,47121,Other,NA,37,4131,20191203
+2004,Tennessee,Monroe,47123,John Kerry,democrat,5349,15553,20191203
+2004,Tennessee,Monroe,47123,George W. Bush,republican,10113,15553,20191203
+2004,Tennessee,Monroe,47123,Other,NA,91,15553,20191203
+2004,Tennessee,Montgomery,47125,John Kerry,democrat,20061,48975,20191203
+2004,Tennessee,Montgomery,47125,George W. Bush,republican,28615,48975,20191203
+2004,Tennessee,Montgomery,47125,Other,NA,299,48975,20191203
+2004,Tennessee,Moore,47127,John Kerry,democrat,1084,2773,20191203
+2004,Tennessee,Moore,47127,George W. Bush,republican,1667,2773,20191203
+2004,Tennessee,Moore,47127,Other,NA,22,2773,20191203
+2004,Tennessee,Morgan,47129,John Kerry,democrat,2924,7360,20191203
+2004,Tennessee,Morgan,47129,George W. Bush,republican,4401,7360,20191203
+2004,Tennessee,Morgan,47129,Other,NA,35,7360,20191203
+2004,Tennessee,Obion,47131,John Kerry,democrat,5549,13535,20191203
+2004,Tennessee,Obion,47131,George W. Bush,republican,7859,13535,20191203
+2004,Tennessee,Obion,47131,Other,NA,127,13535,20191203
+2004,Tennessee,Overton,47133,John Kerry,democrat,4518,8510,20191203
+2004,Tennessee,Overton,47133,George W. Bush,republican,3941,8510,20191203
+2004,Tennessee,Overton,47133,Other,NA,51,8510,20191203
+2004,Tennessee,Perry,47135,John Kerry,democrat,1579,3148,20191203
+2004,Tennessee,Perry,47135,George W. Bush,republican,1520,3148,20191203
+2004,Tennessee,Perry,47135,Other,NA,49,3148,20191203
+2004,Tennessee,Pickett,47137,John Kerry,democrat,1033,2645,20191203
+2004,Tennessee,Pickett,47137,George W. Bush,republican,1600,2645,20191203
+2004,Tennessee,Pickett,47137,Other,NA,12,2645,20191203
+2004,Tennessee,Polk,47139,John Kerry,democrat,2724,6699,20191203
+2004,Tennessee,Polk,47139,George W. Bush,republican,3923,6699,20191203
+2004,Tennessee,Polk,47139,Other,NA,52,6699,20191203
+2004,Tennessee,Putnam,47141,John Kerry,democrat,10549,26407,20191203
+2004,Tennessee,Putnam,47141,George W. Bush,republican,15619,26407,20191203
+2004,Tennessee,Putnam,47141,Other,NA,239,26407,20191203
+2004,Tennessee,Rhea,47143,John Kerry,democrat,3663,11037,20191203
+2004,Tennessee,Rhea,47143,George W. Bush,republican,7288,11037,20191203
+2004,Tennessee,Rhea,47143,Other,NA,86,11037,20191203
+2004,Tennessee,Roane,47145,John Kerry,democrat,8676,23264,20191203
+2004,Tennessee,Roane,47145,George W. Bush,republican,14423,23264,20191203
+2004,Tennessee,Roane,47145,Other,NA,165,23264,20191203
+2004,Tennessee,Robertson,47147,John Kerry,democrat,9863,25319,20191203
+2004,Tennessee,Robertson,47147,George W. Bush,republican,15329,25319,20191203
+2004,Tennessee,Robertson,47147,Other,NA,127,25319,20191203
+2004,Tennessee,Rutherford,47149,John Kerry,democrat,31639,84390,20191203
+2004,Tennessee,Rutherford,47149,George W. Bush,republican,52189,84390,20191203
+2004,Tennessee,Rutherford,47149,Other,NA,562,84390,20191203
+2004,Tennessee,Scott,47151,John Kerry,democrat,3085,7626,20191203
+2004,Tennessee,Scott,47151,George W. Bush,republican,4508,7626,20191203
+2004,Tennessee,Scott,47151,Other,NA,33,7626,20191203
+2004,Tennessee,Sequatchie,47153,John Kerry,democrat,1986,4982,20191203
+2004,Tennessee,Sequatchie,47153,George W. Bush,republican,2950,4982,20191203
+2004,Tennessee,Sequatchie,47153,Other,NA,46,4982,20191203
+2004,Tennessee,Sevier,47155,John Kerry,democrat,8613,30944,20191203
+2004,Tennessee,Sevier,47155,George W. Bush,republican,22127,30944,20191203
+2004,Tennessee,Sevier,47155,Other,NA,204,30944,20191203
+2004,Tennessee,Shelby,47157,John Kerry,democrat,215810,375584,20191203
+2004,Tennessee,Shelby,47157,George W. Bush,republican,157591,375584,20191203
+2004,Tennessee,Shelby,47157,Other,NA,2183,375584,20191203
+2004,Tennessee,Smith,47159,John Kerry,democrat,4038,7821,20191203
+2004,Tennessee,Smith,47159,George W. Bush,republican,3738,7821,20191203
+2004,Tennessee,Smith,47159,Other,NA,45,7821,20191203
+2004,Tennessee,Stewart,47161,John Kerry,democrat,2860,5583,20191203
+2004,Tennessee,Stewart,47161,George W. Bush,republican,2675,5583,20191203
+2004,Tennessee,Stewart,47161,Other,NA,48,5583,20191203
+2004,Tennessee,Sullivan,47163,John Kerry,democrat,19626,62598,20191203
+2004,Tennessee,Sullivan,47163,George W. Bush,republican,42526,62598,20191203
+2004,Tennessee,Sullivan,47163,Other,NA,446,62598,20191203
+2004,Tennessee,Sumner,47165,John Kerry,democrat,21439,61909,20191203
+2004,Tennessee,Sumner,47165,George W. Bush,republican,40141,61909,20191203
+2004,Tennessee,Sumner,47165,Other,NA,329,61909,20191203
+2004,Tennessee,Tipton,47167,John Kerry,democrat,7379,21677,20191203
+2004,Tennessee,Tipton,47167,George W. Bush,republican,14178,21677,20191203
+2004,Tennessee,Tipton,47167,Other,NA,120,21677,20191203
+2004,Tennessee,Trousdale,47169,John Kerry,democrat,1850,3190,20191203
+2004,Tennessee,Trousdale,47169,George W. Bush,republican,1314,3190,20191203
+2004,Tennessee,Trousdale,47169,Other,NA,26,3190,20191203
+2004,Tennessee,Unicoi,47171,John Kerry,democrat,2372,7457,20191203
+2004,Tennessee,Unicoi,47171,George W. Bush,republican,5026,7457,20191203
+2004,Tennessee,Unicoi,47171,Other,NA,59,7457,20191203
+2004,Tennessee,Union,47173,John Kerry,democrat,2524,6710,20191203
+2004,Tennessee,Union,47173,George W. Bush,republican,4145,6710,20191203
+2004,Tennessee,Union,47173,Other,NA,41,6710,20191203
+2004,Tennessee,Van Buren,47175,John Kerry,democrat,1209,2346,20191203
+2004,Tennessee,Van Buren,47175,George W. Bush,republican,1119,2346,20191203
+2004,Tennessee,Van Buren,47175,Other,NA,18,2346,20191203
+2004,Tennessee,Warren,47177,John Kerry,democrat,6803,14394,20191203
+2004,Tennessee,Warren,47177,George W. Bush,republican,7502,14394,20191203
+2004,Tennessee,Warren,47177,Other,NA,89,14394,20191203
+2004,Tennessee,Washington,47179,John Kerry,democrat,14937,44984,20191203
+2004,Tennessee,Washington,47179,George W. Bush,republican,29720,44984,20191203
+2004,Tennessee,Washington,47179,Other,NA,327,44984,20191203
+2004,Tennessee,Wayne,47181,John Kerry,democrat,1951,5983,20191203
+2004,Tennessee,Wayne,47181,George W. Bush,republican,3998,5983,20191203
+2004,Tennessee,Wayne,47181,Other,NA,34,5983,20191203
+2004,Tennessee,Weakley,47183,John Kerry,democrat,5584,13491,20191203
+2004,Tennessee,Weakley,47183,George W. Bush,republican,7816,13491,20191203
+2004,Tennessee,Weakley,47183,Other,NA,91,13491,20191203
+2004,Tennessee,White,47185,John Kerry,democrat,4147,9494,20191203
+2004,Tennessee,White,47185,George W. Bush,republican,5268,9494,20191203
+2004,Tennessee,White,47185,Other,NA,79,9494,20191203
+2004,Tennessee,Williamson,47187,John Kerry,democrat,21719,79577,20191203
+2004,Tennessee,Williamson,47187,George W. Bush,republican,57409,79577,20191203
+2004,Tennessee,Williamson,47187,Other,NA,449,79577,20191203
+2004,Tennessee,Wilson,47189,John Kerry,democrat,15256,44403,20191203
+2004,Tennessee,Wilson,47189,George W. Bush,republican,28896,44403,20191203
+2004,Tennessee,Wilson,47189,Other,NA,251,44403,20191203
+2008,Tennessee,Anderson,47001,Barack Obama,democrat,11396,31570,20191203
+2008,Tennessee,Anderson,47001,John McCain,republican,19675,31570,20191203
+2008,Tennessee,Anderson,47001,Other,NA,499,31570,20191203
+2008,Tennessee,Bedford,47003,Barack Obama,democrat,5027,15507,20191203
+2008,Tennessee,Bedford,47003,John McCain,republican,10217,15507,20191203
+2008,Tennessee,Bedford,47003,Other,NA,263,15507,20191203
+2008,Tennessee,Benton,47005,Barack Obama,democrat,2645,6479,20191203
+2008,Tennessee,Benton,47005,John McCain,republican,3696,6479,20191203
+2008,Tennessee,Benton,47005,Other,NA,138,6479,20191203
+2008,Tennessee,Bledsoe,47007,Barack Obama,democrat,1517,4784,20191203
+2008,Tennessee,Bledsoe,47007,John McCain,republican,3166,4784,20191203
+2008,Tennessee,Bledsoe,47007,Other,NA,101,4784,20191203
+2008,Tennessee,Blount,47009,Barack Obama,democrat,15253,51645,20191203
+2008,Tennessee,Blount,47009,John McCain,republican,35571,51645,20191203
+2008,Tennessee,Blount,47009,Other,NA,821,51645,20191203
+2008,Tennessee,Bradley,47011,Barack Obama,democrat,9357,38191,20191203
+2008,Tennessee,Bradley,47011,John McCain,republican,28333,38191,20191203
+2008,Tennessee,Bradley,47011,Other,NA,501,38191,20191203
+2008,Tennessee,Campbell,47013,Barack Obama,democrat,3867,12628,20191203
+2008,Tennessee,Campbell,47013,John McCain,republican,8535,12628,20191203
+2008,Tennessee,Campbell,47013,Other,NA,226,12628,20191203
+2008,Tennessee,Cannon,47015,Barack Obama,democrat,2011,5457,20191203
+2008,Tennessee,Cannon,47015,John McCain,republican,3322,5457,20191203
+2008,Tennessee,Cannon,47015,Other,NA,124,5457,20191203
+2008,Tennessee,Carroll,47017,Barack Obama,democrat,3980,11646,20191203
+2008,Tennessee,Carroll,47017,John McCain,republican,7455,11646,20191203
+2008,Tennessee,Carroll,47017,Other,NA,211,11646,20191203
+2008,Tennessee,Carter,47019,Barack Obama,democrat,5587,21769,20191203
+2008,Tennessee,Carter,47019,John McCain,republican,15852,21769,20191203
+2008,Tennessee,Carter,47019,Other,NA,330,21769,20191203
+2008,Tennessee,Cheatham,47021,Barack Obama,democrat,5498,16428,20191203
+2008,Tennessee,Cheatham,47021,John McCain,republican,10702,16428,20191203
+2008,Tennessee,Cheatham,47021,Other,NA,228,16428,20191203
+2008,Tennessee,Chester,47023,Barack Obama,democrat,1797,6459,20191203
+2008,Tennessee,Chester,47023,John McCain,republican,4587,6459,20191203
+2008,Tennessee,Chester,47023,Other,NA,75,6459,20191203
+2008,Tennessee,Claiborne,47025,Barack Obama,democrat,3078,10420,20191203
+2008,Tennessee,Claiborne,47025,John McCain,republican,7175,10420,20191203
+2008,Tennessee,Claiborne,47025,Other,NA,167,10420,20191203
+2008,Tennessee,Clay,47027,Barack Obama,democrat,1248,2994,20191203
+2008,Tennessee,Clay,47027,John McCain,republican,1676,2994,20191203
+2008,Tennessee,Clay,47027,Other,NA,70,2994,20191203
+2008,Tennessee,Cocke,47029,Barack Obama,democrat,3340,12481,20191203
+2008,Tennessee,Cocke,47029,John McCain,republican,8945,12481,20191203
+2008,Tennessee,Cocke,47029,Other,NA,196,12481,20191203
+2008,Tennessee,Coffee,47031,Barack Obama,democrat,7132,20790,20191203
+2008,Tennessee,Coffee,47031,John McCain,republican,13250,20790,20191203
+2008,Tennessee,Coffee,47031,Other,NA,408,20790,20191203
+2008,Tennessee,Crockett,47033,Barack Obama,democrat,1967,6037,20191203
+2008,Tennessee,Crockett,47033,John McCain,republican,3994,6037,20191203
+2008,Tennessee,Crockett,47033,Other,NA,76,6037,20191203
+2008,Tennessee,Cumberland,47035,Barack Obama,democrat,7889,25712,20191203
+2008,Tennessee,Cumberland,47035,John McCain,republican,17436,25712,20191203
+2008,Tennessee,Cumberland,47035,Other,NA,387,25712,20191203
+2008,Tennessee,Davidson,47037,Barack Obama,democrat,158423,264486,20191203
+2008,Tennessee,Davidson,47037,John McCain,republican,102915,264486,20191203
+2008,Tennessee,Davidson,47037,Other,NA,3148,264486,20191203
+2008,Tennessee,Decatur,47039,Barack Obama,democrat,1566,4763,20191203
+2008,Tennessee,Decatur,47039,John McCain,republican,3101,4763,20191203
+2008,Tennessee,Decatur,47039,Other,NA,96,4763,20191203
+2008,Tennessee,DeKalb,47041,Barack Obama,democrat,2832,7065,20191203
+2008,Tennessee,DeKalb,47041,John McCain,republican,4085,7065,20191203
+2008,Tennessee,DeKalb,47041,Other,NA,148,7065,20191203
+2008,Tennessee,Dickson,47043,Barack Obama,democrat,7506,19519,20191203
+2008,Tennessee,Dickson,47043,John McCain,republican,11677,19519,20191203
+2008,Tennessee,Dickson,47043,Other,NA,336,19519,20191203
+2008,Tennessee,Dyer,47045,Barack Obama,democrat,4411,14450,20191203
+2008,Tennessee,Dyer,47045,John McCain,republican,9859,14450,20191203
+2008,Tennessee,Dyer,47045,Other,NA,180,14450,20191203
+2008,Tennessee,Fayette,47047,Barack Obama,democrat,6892,19254,20191203
+2008,Tennessee,Fayette,47047,John McCain,republican,12173,19254,20191203
+2008,Tennessee,Fayette,47047,Other,NA,189,19254,20191203
+2008,Tennessee,Fentress,47049,Barack Obama,democrat,1831,6739,20191203
+2008,Tennessee,Fentress,47049,John McCain,republican,4789,6739,20191203
+2008,Tennessee,Fentress,47049,Other,NA,119,6739,20191203
+2008,Tennessee,Franklin,47051,Barack Obama,democrat,6613,17432,20191203
+2008,Tennessee,Franklin,47051,John McCain,republican,10539,17432,20191203
+2008,Tennessee,Franklin,47051,Other,NA,280,17432,20191203
+2008,Tennessee,Gibson,47053,Barack Obama,democrat,7406,21253,20191203
+2008,Tennessee,Gibson,47053,John McCain,republican,13516,21253,20191203
+2008,Tennessee,Gibson,47053,Other,NA,331,21253,20191203
+2008,Tennessee,Giles,47055,Barack Obama,democrat,4614,11689,20191203
+2008,Tennessee,Giles,47055,John McCain,republican,6902,11689,20191203
+2008,Tennessee,Giles,47055,Other,NA,173,11689,20191203
+2008,Tennessee,Grainger,47057,Barack Obama,democrat,2066,7503,20191203
+2008,Tennessee,Grainger,47057,John McCain,republican,5297,7503,20191203
+2008,Tennessee,Grainger,47057,Other,NA,140,7503,20191203
+2008,Tennessee,Greene,47059,Barack Obama,democrat,7110,24670,20191203
+2008,Tennessee,Greene,47059,John McCain,republican,17151,24670,20191203
+2008,Tennessee,Greene,47059,Other,NA,409,24670,20191203
+2008,Tennessee,Grundy,47061,Barack Obama,democrat,1971,4632,20191203
+2008,Tennessee,Grundy,47061,John McCain,republican,2563,4632,20191203
+2008,Tennessee,Grundy,47061,Other,NA,98,4632,20191203
+2008,Tennessee,Hamblen,47063,Barack Obama,democrat,6807,22669,20191203
+2008,Tennessee,Hamblen,47063,John McCain,republican,15508,22669,20191203
+2008,Tennessee,Hamblen,47063,Other,NA,354,22669,20191203
+2008,Tennessee,Hamilton,47065,Barack Obama,democrat,64246,147520,20191203
+2008,Tennessee,Hamilton,47065,John McCain,republican,81702,147520,20191203
+2008,Tennessee,Hamilton,47065,Other,NA,1572,147520,20191203
+2008,Tennessee,Hancock,47067,Barack Obama,democrat,604,2241,20191203
+2008,Tennessee,Hancock,47067,John McCain,republican,1588,2241,20191203
+2008,Tennessee,Hancock,47067,Other,NA,49,2241,20191203
+2008,Tennessee,Hardeman,47069,Barack Obama,democrat,5919,11237,20191203
+2008,Tennessee,Hardeman,47069,John McCain,republican,5225,11237,20191203
+2008,Tennessee,Hardeman,47069,Other,NA,93,11237,20191203
+2008,Tennessee,Hardin,47071,Barack Obama,democrat,2794,10035,20191203
+2008,Tennessee,Hardin,47071,John McCain,republican,7077,10035,20191203
+2008,Tennessee,Hardin,47071,Other,NA,164,10035,20191203
+2008,Tennessee,Hawkins,47073,Barack Obama,democrat,5930,21040,20191203
+2008,Tennessee,Hawkins,47073,John McCain,republican,14756,21040,20191203
+2008,Tennessee,Hawkins,47073,Other,NA,354,21040,20191203
+2008,Tennessee,Haywood,47075,Barack Obama,democrat,4893,8121,20191203
+2008,Tennessee,Haywood,47075,John McCain,republican,3165,8121,20191203
+2008,Tennessee,Haywood,47075,Other,NA,63,8121,20191203
+2008,Tennessee,Henderson,47077,Barack Obama,democrat,3021,10834,20191203
+2008,Tennessee,Henderson,47077,John McCain,republican,7669,10834,20191203
+2008,Tennessee,Henderson,47077,Other,NA,144,10834,20191203
+2008,Tennessee,Henry,47079,Barack Obama,democrat,5153,13545,20191203
+2008,Tennessee,Henry,47079,John McCain,republican,8182,13545,20191203
+2008,Tennessee,Henry,47079,Other,NA,210,13545,20191203
+2008,Tennessee,Hickman,47081,Barack Obama,democrat,3563,8498,20191203
+2008,Tennessee,Hickman,47081,John McCain,republican,4784,8498,20191203
+2008,Tennessee,Hickman,47081,Other,NA,151,8498,20191203
+2008,Tennessee,Houston,47083,Barack Obama,democrat,1678,3354,20191203
+2008,Tennessee,Houston,47083,John McCain,republican,1608,3354,20191203
+2008,Tennessee,Houston,47083,Other,NA,68,3354,20191203
+2008,Tennessee,Humphreys,47085,Barack Obama,democrat,3600,7580,20191203
+2008,Tennessee,Humphreys,47085,John McCain,republican,3818,7580,20191203
+2008,Tennessee,Humphreys,47085,Other,NA,162,7580,20191203
+2008,Tennessee,Jackson,47087,Barack Obama,democrat,2224,4501,20191203
+2008,Tennessee,Jackson,47087,John McCain,republican,2185,4501,20191203
+2008,Tennessee,Jackson,47087,Other,NA,92,4501,20191203
+2008,Tennessee,Jefferson,47089,Barack Obama,democrat,5178,18532,20191203
+2008,Tennessee,Jefferson,47089,John McCain,republican,13092,18532,20191203
+2008,Tennessee,Jefferson,47089,Other,NA,262,18532,20191203
+2008,Tennessee,Johnson,47091,Barack Obama,democrat,1837,6591,20191203
+2008,Tennessee,Johnson,47091,John McCain,republican,4621,6591,20191203
+2008,Tennessee,Johnson,47091,Other,NA,133,6591,20191203
+2008,Tennessee,Knox,47093,Barack Obama,democrat,70215,186086,20191203
+2008,Tennessee,Knox,47093,John McCain,republican,113015,186086,20191203
+2008,Tennessee,Knox,47093,Other,NA,2856,186086,20191203
+2008,Tennessee,Lake,47095,Barack Obama,democrat,1024,2238,20191203
+2008,Tennessee,Lake,47095,John McCain,republican,1175,2238,20191203
+2008,Tennessee,Lake,47095,Other,NA,39,2238,20191203
+2008,Tennessee,Lauderdale,47097,Barack Obama,democrat,4322,9338,20191203
+2008,Tennessee,Lauderdale,47097,John McCain,republican,4933,9338,20191203
+2008,Tennessee,Lauderdale,47097,Other,NA,83,9338,20191203
+2008,Tennessee,Lawrence,47099,Barack Obama,democrat,5161,16020,20191203
+2008,Tennessee,Lawrence,47099,John McCain,republican,10566,16020,20191203
+2008,Tennessee,Lawrence,47099,Other,NA,293,16020,20191203
+2008,Tennessee,Lewis,47101,Barack Obama,democrat,1804,4834,20191203
+2008,Tennessee,Lewis,47101,John McCain,republican,2951,4834,20191203
+2008,Tennessee,Lewis,47101,Other,NA,79,4834,20191203
+2008,Tennessee,Lincoln,47103,Barack Obama,democrat,3695,13130,20191203
+2008,Tennessee,Lincoln,47103,John McCain,republican,9231,13130,20191203
+2008,Tennessee,Lincoln,47103,Other,NA,204,13130,20191203
+2008,Tennessee,Loudon,47105,Barack Obama,democrat,6058,22184,20191203
+2008,Tennessee,Loudon,47105,John McCain,republican,15815,22184,20191203
+2008,Tennessee,Loudon,47105,Other,NA,311,22184,20191203
+2008,Tennessee,McMinn,47107,Barack Obama,democrat,5541,18789,20191203
+2008,Tennessee,McMinn,47107,John McCain,republican,12989,18789,20191203
+2008,Tennessee,McMinn,47107,Other,NA,259,18789,20191203
+2008,Tennessee,McNairy,47109,Barack Obama,democrat,3131,10422,20191203
+2008,Tennessee,McNairy,47109,John McCain,republican,7135,10422,20191203
+2008,Tennessee,McNairy,47109,Other,NA,156,10422,20191203
+2008,Tennessee,Macon,47111,Barack Obama,democrat,2060,7360,20191203
+2008,Tennessee,Macon,47111,John McCain,republican,5145,7360,20191203
+2008,Tennessee,Macon,47111,Other,NA,155,7360,20191203
+2008,Tennessee,Madison,47113,Barack Obama,democrat,20209,43846,20191203
+2008,Tennessee,Madison,47113,John McCain,republican,23290,43846,20191203
+2008,Tennessee,Madison,47113,Other,NA,347,43846,20191203
+2008,Tennessee,Marion,47115,Barack Obama,democrat,4506,11437,20191203
+2008,Tennessee,Marion,47115,John McCain,republican,6746,11437,20191203
+2008,Tennessee,Marion,47115,Other,NA,185,11437,20191203
+2008,Tennessee,Marshall,47117,Barack Obama,democrat,4320,11289,20191203
+2008,Tennessee,Marshall,47117,John McCain,republican,6755,11289,20191203
+2008,Tennessee,Marshall,47117,Other,NA,214,11289,20191203
+2008,Tennessee,Maury,47119,Barack Obama,democrat,13058,33767,20191203
+2008,Tennessee,Maury,47119,John McCain,republican,20288,33767,20191203
+2008,Tennessee,Maury,47119,Other,NA,421,33767,20191203
+2008,Tennessee,Meigs,47121,Barack Obama,democrat,1372,4237,20191203
+2008,Tennessee,Meigs,47121,John McCain,republican,2797,4237,20191203
+2008,Tennessee,Meigs,47121,Other,NA,68,4237,20191203
+2008,Tennessee,Monroe,47123,Barack Obama,democrat,5053,16777,20191203
+2008,Tennessee,Monroe,47123,John McCain,republican,11484,16777,20191203
+2008,Tennessee,Monroe,47123,Other,NA,240,16777,20191203
+2008,Tennessee,Montgomery,47125,Barack Obama,democrat,25716,56518,20191203
+2008,Tennessee,Montgomery,47125,John McCain,republican,30175,56518,20191203
+2008,Tennessee,Montgomery,47125,Other,NA,627,56518,20191203
+2008,Tennessee,Moore,47127,Barack Obama,democrat,881,2952,20191203
+2008,Tennessee,Moore,47127,John McCain,republican,2010,2952,20191203
+2008,Tennessee,Moore,47127,Other,NA,61,2952,20191203
+2008,Tennessee,Morgan,47129,Barack Obama,democrat,1969,6822,20191203
+2008,Tennessee,Morgan,47129,John McCain,republican,4717,6822,20191203
+2008,Tennessee,Morgan,47129,Other,NA,136,6822,20191203
+2008,Tennessee,Obion,47131,Barack Obama,democrat,4308,13392,20191203
+2008,Tennessee,Obion,47131,John McCain,republican,8873,13392,20191203
+2008,Tennessee,Obion,47131,Other,NA,211,13392,20191203
+2008,Tennessee,Overton,47133,Barack Obama,democrat,3419,8092,20191203
+2008,Tennessee,Overton,47133,John McCain,republican,4497,8092,20191203
+2008,Tennessee,Overton,47133,Other,NA,176,8092,20191203
+2008,Tennessee,Perry,47135,Barack Obama,democrat,1329,3000,20191203
+2008,Tennessee,Perry,47135,John McCain,republican,1596,3000,20191203
+2008,Tennessee,Perry,47135,Other,NA,75,3000,20191203
+2008,Tennessee,Pickett,47137,Barack Obama,democrat,854,2671,20191203
+2008,Tennessee,Pickett,47137,John McCain,republican,1786,2671,20191203
+2008,Tennessee,Pickett,47137,Other,NA,31,2671,20191203
+2008,Tennessee,Polk,47139,Barack Obama,democrat,2124,6501,20191203
+2008,Tennessee,Polk,47139,John McCain,republican,4267,6501,20191203
+2008,Tennessee,Polk,47139,Other,NA,110,6501,20191203
+2008,Tennessee,Putnam,47141,Barack Obama,democrat,9739,27316,20191203
+2008,Tennessee,Putnam,47141,John McCain,republican,17101,27316,20191203
+2008,Tennessee,Putnam,47141,Other,NA,476,27316,20191203
+2008,Tennessee,Rhea,47143,Barack Obama,democrat,2907,11106,20191203
+2008,Tennessee,Rhea,47143,John McCain,republican,8042,11106,20191203
+2008,Tennessee,Rhea,47143,Other,NA,157,11106,20191203
+2008,Tennessee,Roane,47145,Barack Obama,democrat,7224,23276,20191203
+2008,Tennessee,Roane,47145,John McCain,republican,15658,23276,20191203
+2008,Tennessee,Roane,47145,Other,NA,394,23276,20191203
+2008,Tennessee,Robertson,47147,Barack Obama,democrat,9318,27614,20191203
+2008,Tennessee,Robertson,47147,John McCain,republican,17903,27614,20191203
+2008,Tennessee,Robertson,47147,Other,NA,393,27614,20191203
+2008,Tennessee,Rutherford,47149,Barack Obama,democrat,40460,101737,20191203
+2008,Tennessee,Rutherford,47149,John McCain,republican,59892,101737,20191203
+2008,Tennessee,Rutherford,47149,Other,NA,1385,101737,20191203
+2008,Tennessee,Scott,47151,Barack Obama,democrat,1720,6783,20191203
+2008,Tennessee,Scott,47151,John McCain,republican,4931,6783,20191203
+2008,Tennessee,Scott,47151,Other,NA,132,6783,20191203
+2008,Tennessee,Sequatchie,47153,Barack Obama,democrat,1717,5437,20191203
+2008,Tennessee,Sequatchie,47153,John McCain,republican,3610,5437,20191203
+2008,Tennessee,Sequatchie,47153,Other,NA,110,5437,20191203
+2008,Tennessee,Sevier,47155,Barack Obama,democrat,8604,33941,20191203
+2008,Tennessee,Sevier,47155,John McCain,republican,24922,33941,20191203
+2008,Tennessee,Sevier,47155,Other,NA,415,33941,20191203
+2008,Tennessee,Shelby,47157,Barack Obama,democrat,256297,404555,20191203
+2008,Tennessee,Shelby,47157,John McCain,republican,145458,404555,20191203
+2008,Tennessee,Shelby,47157,Other,NA,2800,404555,20191203
+2008,Tennessee,Smith,47159,Barack Obama,democrat,2992,7741,20191203
+2008,Tennessee,Smith,47159,John McCain,republican,4563,7741,20191203
+2008,Tennessee,Smith,47159,Other,NA,186,7741,20191203
+2008,Tennessee,Stewart,47161,Barack Obama,democrat,2470,5507,20191203
+2008,Tennessee,Stewart,47161,John McCain,republican,2956,5507,20191203
+2008,Tennessee,Stewart,47161,Other,NA,81,5507,20191203
+2008,Tennessee,Sullivan,47163,Barack Obama,democrat,18354,63997,20191203
+2008,Tennessee,Sullivan,47163,John McCain,republican,44808,63997,20191203
+2008,Tennessee,Sullivan,47163,Other,NA,835,63997,20191203
+2008,Tennessee,Sumner,47165,Barack Obama,democrat,21487,67228,20191203
+2008,Tennessee,Sumner,47165,John McCain,republican,44949,67228,20191203
+2008,Tennessee,Sumner,47165,Other,NA,792,67228,20191203
+2008,Tennessee,Tipton,47167,Barack Obama,democrat,7931,25316,20191203
+2008,Tennessee,Tipton,47167,John McCain,republican,17165,25316,20191203
+2008,Tennessee,Tipton,47167,Other,NA,220,25316,20191203
+2008,Tennessee,Trousdale,47169,Barack Obama,democrat,1475,3239,20191203
+2008,Tennessee,Trousdale,47169,John McCain,republican,1688,3239,20191203
+2008,Tennessee,Trousdale,47169,Other,NA,76,3239,20191203
+2008,Tennessee,Unicoi,47171,Barack Obama,democrat,2107,7223,20191203
+2008,Tennessee,Unicoi,47171,John McCain,republican,5011,7223,20191203
+2008,Tennessee,Unicoi,47171,Other,NA,105,7223,20191203
+2008,Tennessee,Union,47173,Barack Obama,democrat,1829,6399,20191203
+2008,Tennessee,Union,47173,John McCain,republican,4467,6399,20191203
+2008,Tennessee,Union,47173,Other,NA,103,6399,20191203
+2008,Tennessee,Van Buren,47175,Barack Obama,democrat,849,2206,20191203
+2008,Tennessee,Van Buren,47175,John McCain,republican,1294,2206,20191203
+2008,Tennessee,Van Buren,47175,Other,NA,63,2206,20191203
+2008,Tennessee,Warren,47177,Barack Obama,democrat,5515,14400,20191203
+2008,Tennessee,Warren,47177,John McCain,republican,8562,14400,20191203
+2008,Tennessee,Warren,47177,Other,NA,323,14400,20191203
+2008,Tennessee,Washington,47179,Barack Obama,democrat,15941,48982,20191203
+2008,Tennessee,Washington,47179,John McCain,republican,32341,48982,20191203
+2008,Tennessee,Washington,47179,Other,NA,700,48982,20191203
+2008,Tennessee,Wayne,47181,Barack Obama,democrat,1355,5527,20191203
+2008,Tennessee,Wayne,47181,John McCain,republican,4076,5527,20191203
+2008,Tennessee,Wayne,47181,Other,NA,96,5527,20191203
+2008,Tennessee,Weakley,47183,Barack Obama,democrat,4596,13690,20191203
+2008,Tennessee,Weakley,47183,John McCain,republican,8855,13690,20191203
+2008,Tennessee,Weakley,47183,Other,NA,239,13690,20191203
+2008,Tennessee,White,47185,Barack Obama,democrat,3372,9647,20191203
+2008,Tennessee,White,47185,John McCain,republican,6103,9647,20191203
+2008,Tennessee,White,47185,Other,NA,172,9647,20191203
+2008,Tennessee,Williamson,47187,Barack Obama,democrat,27886,93646,20191203
+2008,Tennessee,Williamson,47187,John McCain,republican,64858,93646,20191203
+2008,Tennessee,Williamson,47187,Other,NA,902,93646,20191203
+2008,Tennessee,Wilson,47189,Barack Obama,democrat,15886,51159,20191203
+2008,Tennessee,Wilson,47189,John McCain,republican,34595,51159,20191203
+2008,Tennessee,Wilson,47189,Other,NA,678,51159,20191203
+2012,Tennessee,Anderson,47001,Barack Obama,democrat,10122,29659,20191203
+2012,Tennessee,Anderson,47001,Mitt Romney,republican,18968,29659,20191203
+2012,Tennessee,Anderson,47001,Other,NA,569,29659,20191203
+2012,Tennessee,Bedford,47003,Barack Obama,democrat,4211,14445,20191203
+2012,Tennessee,Bedford,47003,Mitt Romney,republican,10034,14445,20191203
+2012,Tennessee,Bedford,47003,Other,NA,200,14445,20191203
+2012,Tennessee,Benton,47005,Barack Obama,democrat,2258,6226,20191203
+2012,Tennessee,Benton,47005,Mitt Romney,republican,3850,6226,20191203
+2012,Tennessee,Benton,47005,Other,NA,118,6226,20191203
+2012,Tennessee,Bledsoe,47007,Barack Obama,democrat,1267,4359,20191203
+2012,Tennessee,Bledsoe,47007,Mitt Romney,republican,3022,4359,20191203
+2012,Tennessee,Bledsoe,47007,Other,NA,70,4359,20191203
+2012,Tennessee,Blount,47009,Barack Obama,democrat,12934,49234,20191203
+2012,Tennessee,Blount,47009,Mitt Romney,republican,35441,49234,20191203
+2012,Tennessee,Blount,47009,Other,NA,859,49234,20191203
+2012,Tennessee,Bradley,47011,Barack Obama,democrat,8037,35963,20191203
+2012,Tennessee,Bradley,47011,Mitt Romney,republican,27422,35963,20191203
+2012,Tennessee,Bradley,47011,Other,NA,504,35963,20191203
+2012,Tennessee,Campbell,47013,Barack Obama,democrat,3328,12101,20191203
+2012,Tennessee,Campbell,47013,Mitt Romney,republican,8604,12101,20191203
+2012,Tennessee,Campbell,47013,Other,NA,169,12101,20191203
+2012,Tennessee,Cannon,47015,Barack Obama,democrat,1564,4973,20191203
+2012,Tennessee,Cannon,47015,Mitt Romney,republican,3309,4973,20191203
+2012,Tennessee,Cannon,47015,Other,NA,100,4973,20191203
+2012,Tennessee,Carroll,47017,Barack Obama,democrat,3475,10851,20191203
+2012,Tennessee,Carroll,47017,Mitt Romney,republican,7225,10851,20191203
+2012,Tennessee,Carroll,47017,Other,NA,151,10851,20191203
+2012,Tennessee,Carter,47019,Barack Obama,democrat,4789,20617,20191203
+2012,Tennessee,Carter,47019,Mitt Romney,republican,15503,20617,20191203
+2012,Tennessee,Carter,47019,Other,NA,325,20617,20191203
+2012,Tennessee,Cheatham,47021,Barack Obama,democrat,4659,15182,20191203
+2012,Tennessee,Cheatham,47021,Mitt Romney,republican,10268,15182,20191203
+2012,Tennessee,Cheatham,47021,Other,NA,255,15182,20191203
+2012,Tennessee,Chester,47023,Barack Obama,democrat,1624,6410,20191203
+2012,Tennessee,Chester,47023,Mitt Romney,republican,4684,6410,20191203
+2012,Tennessee,Chester,47023,Other,NA,102,6410,20191203
+2012,Tennessee,Claiborne,47025,Barack Obama,democrat,2433,10178,20191203
+2012,Tennessee,Claiborne,47025,Mitt Romney,republican,7617,10178,20191203
+2012,Tennessee,Claiborne,47025,Other,NA,128,10178,20191203
+2012,Tennessee,Clay,47027,Barack Obama,democrat,1037,2820,20191203
+2012,Tennessee,Clay,47027,Mitt Romney,republican,1747,2820,20191203
+2012,Tennessee,Clay,47027,Other,NA,36,2820,20191203
+2012,Tennessee,Cocke,47029,Barack Obama,democrat,2804,11454,20191203
+2012,Tennessee,Cocke,47029,Mitt Romney,republican,8459,11454,20191203
+2012,Tennessee,Cocke,47029,Other,NA,191,11454,20191203
+2012,Tennessee,Coffee,47031,Barack Obama,democrat,5870,19259,20191203
+2012,Tennessee,Coffee,47031,Mitt Romney,republican,13023,19259,20191203
+2012,Tennessee,Coffee,47031,Other,NA,366,19259,20191203
+2012,Tennessee,Crockett,47033,Barack Obama,democrat,1669,5498,20191203
+2012,Tennessee,Crockett,47033,Mitt Romney,republican,3783,5498,20191203
+2012,Tennessee,Crockett,47033,Other,NA,46,5498,20191203
+2012,Tennessee,Cumberland,47035,Barack Obama,democrat,6261,25247,20191203
+2012,Tennessee,Cumberland,47035,Mitt Romney,republican,18653,25247,20191203
+2012,Tennessee,Cumberland,47035,Other,NA,333,25247,20191203
+2012,Tennessee,Davidson,47037,Barack Obama,democrat,143120,244873,20191203
+2012,Tennessee,Davidson,47037,Mitt Romney,republican,97622,244873,20191203
+2012,Tennessee,Davidson,47037,Other,NA,4131,244873,20191203
+2012,Tennessee,Decatur,47039,Barack Obama,democrat,1303,4251,20191203
+2012,Tennessee,Decatur,47039,Mitt Romney,republican,2874,4251,20191203
+2012,Tennessee,Decatur,47039,Other,NA,74,4251,20191203
+2012,Tennessee,DeKalb,47041,Barack Obama,democrat,2174,6422,20191203
+2012,Tennessee,DeKalb,47041,Mitt Romney,republican,4143,6422,20191203
+2012,Tennessee,DeKalb,47041,Other,NA,105,6422,20191203
+2012,Tennessee,Dickson,47043,Barack Obama,democrat,6233,17835,20191203
+2012,Tennessee,Dickson,47043,Mitt Romney,republican,11296,17835,20191203
+2012,Tennessee,Dickson,47043,Other,NA,306,17835,20191203
+2012,Tennessee,Dyer,47045,Barack Obama,democrat,3757,13800,20191203
+2012,Tennessee,Dyer,47045,Mitt Romney,republican,9921,13800,20191203
+2012,Tennessee,Dyer,47045,Other,NA,122,13800,20191203
+2012,Tennessee,Fayette,47047,Barack Obama,democrat,6688,19574,20191203
+2012,Tennessee,Fayette,47047,Mitt Romney,republican,12689,19574,20191203
+2012,Tennessee,Fayette,47047,Other,NA,197,19574,20191203
+2012,Tennessee,Fentress,47049,Barack Obama,democrat,1561,6895,20191203
+2012,Tennessee,Fentress,47049,Mitt Romney,republican,5243,6895,20191203
+2012,Tennessee,Fentress,47049,Other,NA,91,6895,20191203
+2012,Tennessee,Franklin,47051,Barack Obama,democrat,5603,16119,20191203
+2012,Tennessee,Franklin,47051,Mitt Romney,republican,10262,16119,20191203
+2012,Tennessee,Franklin,47051,Other,NA,254,16119,20191203
+2012,Tennessee,Gibson,47053,Barack Obama,democrat,6564,19667,20191203
+2012,Tennessee,Gibson,47053,Mitt Romney,republican,12883,19667,20191203
+2012,Tennessee,Gibson,47053,Other,NA,220,19667,20191203
+2012,Tennessee,Giles,47055,Barack Obama,democrat,3760,10799,20191203
+2012,Tennessee,Giles,47055,Mitt Romney,republican,6915,10799,20191203
+2012,Tennessee,Giles,47055,Other,NA,124,10799,20191203
+2012,Tennessee,Grainger,47057,Barack Obama,democrat,1668,7252,20191203
+2012,Tennessee,Grainger,47057,Mitt Romney,republican,5470,7252,20191203
+2012,Tennessee,Grainger,47057,Other,NA,114,7252,20191203
+2012,Tennessee,Greene,47059,Barack Obama,democrat,6225,23887,20191203
+2012,Tennessee,Greene,47059,Mitt Romney,republican,17245,23887,20191203
+2012,Tennessee,Greene,47059,Other,NA,417,23887,20191203
+2012,Tennessee,Grundy,47061,Barack Obama,democrat,1643,4237,20191203
+2012,Tennessee,Grundy,47061,Mitt Romney,republican,2516,4237,20191203
+2012,Tennessee,Grundy,47061,Other,NA,78,4237,20191203
+2012,Tennessee,Hamblen,47063,Barack Obama,democrat,5234,20032,20191203
+2012,Tennessee,Hamblen,47063,Mitt Romney,republican,14522,20032,20191203
+2012,Tennessee,Hamblen,47063,Other,NA,276,20032,20191203
+2012,Tennessee,Hamilton,47065,Barack Obama,democrat,58836,141181,20191203
+2012,Tennessee,Hamilton,47065,Mitt Romney,republican,79933,141181,20191203
+2012,Tennessee,Hamilton,47065,Other,NA,2412,141181,20191203
+2012,Tennessee,Hancock,47067,Barack Obama,democrat,475,2046,20191203
+2012,Tennessee,Hancock,47067,Mitt Romney,republican,1527,2046,20191203
+2012,Tennessee,Hancock,47067,Other,NA,44,2046,20191203
+2012,Tennessee,Hardeman,47069,Barack Obama,democrat,5482,10439,20191203
+2012,Tennessee,Hardeman,47069,Mitt Romney,republican,4865,10439,20191203
+2012,Tennessee,Hardeman,47069,Other,NA,92,10439,20191203
+2012,Tennessee,Hardin,47071,Barack Obama,democrat,2467,10495,20191203
+2012,Tennessee,Hardin,47071,Mitt Romney,republican,7886,10495,20191203
+2012,Tennessee,Hardin,47071,Other,NA,142,10495,20191203
+2012,Tennessee,Hawkins,47073,Barack Obama,democrat,5088,19797,20191203
+2012,Tennessee,Hawkins,47073,Mitt Romney,republican,14382,19797,20191203
+2012,Tennessee,Hawkins,47073,Other,NA,327,19797,20191203
+2012,Tennessee,Haywood,47075,Barack Obama,democrat,4569,7569,20191203
+2012,Tennessee,Haywood,47075,Mitt Romney,republican,2960,7569,20191203
+2012,Tennessee,Haywood,47075,Other,NA,40,7569,20191203
+2012,Tennessee,Henderson,47077,Barack Obama,democrat,2517,10055,20191203
+2012,Tennessee,Henderson,47077,Mitt Romney,republican,7421,10055,20191203
+2012,Tennessee,Henderson,47077,Other,NA,117,10055,20191203
+2012,Tennessee,Henry,47079,Barack Obama,democrat,4339,12739,20191203
+2012,Tennessee,Henry,47079,Mitt Romney,republican,8193,12739,20191203
+2012,Tennessee,Henry,47079,Other,NA,207,12739,20191203
+2012,Tennessee,Hickman,47081,Barack Obama,democrat,2698,7602,20191203
+2012,Tennessee,Hickman,47081,Mitt Romney,republican,4758,7602,20191203
+2012,Tennessee,Hickman,47081,Other,NA,146,7602,20191203
+2012,Tennessee,Houston,47083,Barack Obama,democrat,1400,3027,20191203
+2012,Tennessee,Houston,47083,Mitt Romney,republican,1579,3027,20191203
+2012,Tennessee,Houston,47083,Other,NA,48,3027,20191203
+2012,Tennessee,Humphreys,47085,Barack Obama,democrat,2905,6863,20191203
+2012,Tennessee,Humphreys,47085,Mitt Romney,republican,3833,6863,20191203
+2012,Tennessee,Humphreys,47085,Other,NA,125,6863,20191203
+2012,Tennessee,Jackson,47087,Barack Obama,democrat,1739,4184,20191203
+2012,Tennessee,Jackson,47087,Mitt Romney,republican,2383,4184,20191203
+2012,Tennessee,Jackson,47087,Other,NA,62,4184,20191203
+2012,Tennessee,Jefferson,47089,Barack Obama,democrat,4232,17559,20191203
+2012,Tennessee,Jefferson,47089,Mitt Romney,republican,13038,17559,20191203
+2012,Tennessee,Jefferson,47089,Other,NA,289,17559,20191203
+2012,Tennessee,Johnson,47091,Barack Obama,democrat,1483,6194,20191203
+2012,Tennessee,Johnson,47091,Mitt Romney,republican,4611,6194,20191203
+2012,Tennessee,Johnson,47091,Other,NA,100,6194,20191203
+2012,Tennessee,Knox,47093,Barack Obama,democrat,59399,172507,20191203
+2012,Tennessee,Knox,47093,Mitt Romney,republican,109707,172507,20191203
+2012,Tennessee,Knox,47093,Other,NA,3401,172507,20191203
+2012,Tennessee,Lake,47095,Barack Obama,democrat,884,2087,20191203
+2012,Tennessee,Lake,47095,Mitt Romney,republican,1163,2087,20191203
+2012,Tennessee,Lake,47095,Other,NA,40,2087,20191203
+2012,Tennessee,Lauderdale,47097,Barack Obama,democrat,4011,8689,20191203
+2012,Tennessee,Lauderdale,47097,Mitt Romney,republican,4616,8689,20191203
+2012,Tennessee,Lauderdale,47097,Other,NA,62,8689,20191203
+2012,Tennessee,Lawrence,47099,Barack Obama,democrat,4237,15219,20191203
+2012,Tennessee,Lawrence,47099,Mitt Romney,republican,10770,15219,20191203
+2012,Tennessee,Lawrence,47099,Other,NA,212,15219,20191203
+2012,Tennessee,Lewis,47101,Barack Obama,democrat,1447,4694,20191203
+2012,Tennessee,Lewis,47101,Mitt Romney,republican,3117,4694,20191203
+2012,Tennessee,Lewis,47101,Other,NA,130,4694,20191203
+2012,Tennessee,Lincoln,47103,Barack Obama,democrat,3290,13268,20191203
+2012,Tennessee,Lincoln,47103,Mitt Romney,republican,9803,13268,20191203
+2012,Tennessee,Lincoln,47103,Other,NA,175,13268,20191203
+2012,Tennessee,Loudon,47105,Barack Obama,democrat,5058,22073,20191203
+2012,Tennessee,Loudon,47105,Mitt Romney,republican,16707,22073,20191203
+2012,Tennessee,Loudon,47105,Other,NA,308,22073,20191203
+2012,Tennessee,McMinn,47107,Barack Obama,democrat,4609,17834,20191203
+2012,Tennessee,McMinn,47107,Mitt Romney,republican,12967,17834,20191203
+2012,Tennessee,McMinn,47107,Other,NA,258,17834,20191203
+2012,Tennessee,McNairy,47109,Barack Obama,democrat,2645,9802,20191203
+2012,Tennessee,McNairy,47109,Mitt Romney,republican,7015,9802,20191203
+2012,Tennessee,McNairy,47109,Other,NA,142,9802,20191203
+2012,Tennessee,Macon,47111,Barack Obama,democrat,1552,6905,20191203
+2012,Tennessee,Macon,47111,Mitt Romney,republican,5260,6905,20191203
+2012,Tennessee,Macon,47111,Other,NA,93,6905,20191203
+2012,Tennessee,Madison,47113,Barack Obama,democrat,18367,40702,20191203
+2012,Tennessee,Madison,47113,Mitt Romney,republican,21993,40702,20191203
+2012,Tennessee,Madison,47113,Other,NA,342,40702,20191203
+2012,Tennessee,Marion,47115,Barack Obama,democrat,3953,10409,20191203
+2012,Tennessee,Marion,47115,Mitt Romney,republican,6272,10409,20191203
+2012,Tennessee,Marion,47115,Other,NA,184,10409,20191203
+2012,Tennessee,Marshall,47117,Barack Obama,democrat,3725,10741,20191203
+2012,Tennessee,Marshall,47117,Mitt Romney,republican,6832,10741,20191203
+2012,Tennessee,Marshall,47117,Other,NA,184,10741,20191203
+2012,Tennessee,Maury,47119,Barack Obama,democrat,11825,33006,20191203
+2012,Tennessee,Maury,47119,Mitt Romney,republican,20708,33006,20191203
+2012,Tennessee,Maury,47119,Other,NA,473,33006,20191203
+2012,Tennessee,Meigs,47121,Barack Obama,democrat,1163,3964,20191203
+2012,Tennessee,Meigs,47121,Mitt Romney,republican,2734,3964,20191203
+2012,Tennessee,Meigs,47121,Other,NA,67,3964,20191203
+2012,Tennessee,Monroe,47123,Barack Obama,democrat,4372,16338,20191203
+2012,Tennessee,Monroe,47123,Mitt Romney,republican,11731,16338,20191203
+2012,Tennessee,Monroe,47123,Other,NA,235,16338,20191203
+2012,Tennessee,Montgomery,47125,Barack Obama,democrat,24499,55584,20191203
+2012,Tennessee,Montgomery,47125,Mitt Romney,republican,30245,55584,20191203
+2012,Tennessee,Montgomery,47125,Other,NA,840,55584,20191203
+2012,Tennessee,Moore,47127,Barack Obama,democrat,705,2799,20191203
+2012,Tennessee,Moore,47127,Mitt Romney,republican,2053,2799,20191203
+2012,Tennessee,Moore,47127,Other,NA,41,2799,20191203
+2012,Tennessee,Morgan,47129,Barack Obama,democrat,1725,6504,20191203
+2012,Tennessee,Morgan,47129,Mitt Romney,republican,4669,6504,20191203
+2012,Tennessee,Morgan,47129,Other,NA,110,6504,20191203
+2012,Tennessee,Obion,47131,Barack Obama,democrat,3321,12297,20191203
+2012,Tennessee,Obion,47131,Mitt Romney,republican,8814,12297,20191203
+2012,Tennessee,Obion,47131,Other,NA,162,12297,20191203
+2012,Tennessee,Overton,47133,Barack Obama,democrat,2805,7664,20191203
+2012,Tennessee,Overton,47133,Mitt Romney,republican,4775,7664,20191203
+2012,Tennessee,Overton,47133,Other,NA,84,7664,20191203
+2012,Tennessee,Perry,47135,Barack Obama,democrat,992,2621,20191203
+2012,Tennessee,Perry,47135,Mitt Romney,republican,1578,2621,20191203
+2012,Tennessee,Perry,47135,Other,NA,51,2621,20191203
+2012,Tennessee,Pickett,47137,Barack Obama,democrat,712,2453,20191203
+2012,Tennessee,Pickett,47137,Mitt Romney,republican,1712,2453,20191203
+2012,Tennessee,Pickett,47137,Other,NA,29,2453,20191203
+2012,Tennessee,Polk,47139,Barack Obama,democrat,1856,6059,20191203
+2012,Tennessee,Polk,47139,Mitt Romney,republican,4108,6059,20191203
+2012,Tennessee,Polk,47139,Other,NA,95,6059,20191203
+2012,Tennessee,Putnam,47141,Barack Obama,democrat,7802,25500,20191203
+2012,Tennessee,Putnam,47141,Mitt Romney,republican,17254,25500,20191203
+2012,Tennessee,Putnam,47141,Other,NA,444,25500,20191203
+2012,Tennessee,Rhea,47143,Barack Obama,democrat,2628,10590,20191203
+2012,Tennessee,Rhea,47143,Mitt Romney,republican,7802,10590,20191203
+2012,Tennessee,Rhea,47143,Other,NA,160,10590,20191203
+2012,Tennessee,Roane,47145,Barack Obama,democrat,6018,21090,20191203
+2012,Tennessee,Roane,47145,Mitt Romney,republican,14724,21090,20191203
+2012,Tennessee,Roane,47145,Other,NA,348,21090,20191203
+2012,Tennessee,Robertson,47147,Barack Obama,democrat,8290,26289,20191203
+2012,Tennessee,Robertson,47147,Mitt Romney,republican,17643,26289,20191203
+2012,Tennessee,Robertson,47147,Other,NA,356,26289,20191203
+2012,Tennessee,Rutherford,47149,Barack Obama,democrat,36414,98848,20191203
+2012,Tennessee,Rutherford,47149,Mitt Romney,republican,60846,98848,20191203
+2012,Tennessee,Rutherford,47149,Other,NA,1588,98848,20191203
+2012,Tennessee,Scott,47151,Barack Obama,democrat,1452,6668,20191203
+2012,Tennessee,Scott,47151,Mitt Romney,republican,5117,6668,20191203
+2012,Tennessee,Scott,47151,Other,NA,99,6668,20191203
+2012,Tennessee,Sequatchie,47153,Barack Obama,democrat,1489,5142,20191203
+2012,Tennessee,Sequatchie,47153,Mitt Romney,republican,3541,5142,20191203
+2012,Tennessee,Sequatchie,47153,Other,NA,112,5142,20191203
+2012,Tennessee,Sevier,47155,Barack Obama,democrat,7418,33864,20191203
+2012,Tennessee,Sevier,47155,Mitt Romney,republican,25984,33864,20191203
+2012,Tennessee,Sevier,47155,Other,NA,462,33864,20191203
+2012,Tennessee,Shelby,47157,Barack Obama,democrat,232443,371109,20191203
+2012,Tennessee,Shelby,47157,Mitt Romney,republican,135649,371109,20191203
+2012,Tennessee,Shelby,47157,Other,NA,3017,371109,20191203
+2012,Tennessee,Smith,47159,Barack Obama,democrat,2470,7087,20191203
+2012,Tennessee,Smith,47159,Mitt Romney,republican,4495,7087,20191203
+2012,Tennessee,Smith,47159,Other,NA,122,7087,20191203
+2012,Tennessee,Stewart,47161,Barack Obama,democrat,2069,5115,20191203
+2012,Tennessee,Stewart,47161,Mitt Romney,republican,2963,5115,20191203
+2012,Tennessee,Stewart,47161,Other,NA,83,5115,20191203
+2012,Tennessee,Sullivan,47163,Barack Obama,democrat,15321,59887,20191203
+2012,Tennessee,Sullivan,47163,Mitt Romney,republican,43562,59887,20191203
+2012,Tennessee,Sullivan,47163,Other,NA,1004,59887,20191203
+2012,Tennessee,Sumner,47165,Barack Obama,democrat,18579,65366,20191203
+2012,Tennessee,Sumner,47165,Mitt Romney,republican,46003,65366,20191203
+2012,Tennessee,Sumner,47165,Other,NA,784,65366,20191203
+2012,Tennessee,Tipton,47167,Barack Obama,democrat,7133,24081,20191203
+2012,Tennessee,Tipton,47167,Mitt Romney,republican,16672,24081,20191203
+2012,Tennessee,Tipton,47167,Other,NA,276,24081,20191203
+2012,Tennessee,Trousdale,47169,Barack Obama,democrat,1240,2905,20191203
+2012,Tennessee,Trousdale,47169,Mitt Romney,republican,1612,2905,20191203
+2012,Tennessee,Trousdale,47169,Other,NA,53,2905,20191203
+2012,Tennessee,Unicoi,47171,Barack Obama,democrat,1913,7086,20191203
+2012,Tennessee,Unicoi,47171,Mitt Romney,republican,5032,7086,20191203
+2012,Tennessee,Unicoi,47171,Other,NA,141,7086,20191203
+2012,Tennessee,Union,47173,Barack Obama,democrat,1478,5828,20191203
+2012,Tennessee,Union,47173,Mitt Romney,republican,4282,5828,20191203
+2012,Tennessee,Union,47173,Other,NA,68,5828,20191203
+2012,Tennessee,Van Buren,47175,Barack Obama,democrat,875,2300,20191203
+2012,Tennessee,Van Buren,47175,Mitt Romney,republican,1386,2300,20191203
+2012,Tennessee,Van Buren,47175,Other,NA,39,2300,20191203
+2012,Tennessee,Warren,47177,Barack Obama,democrat,4752,13015,20191203
+2012,Tennessee,Warren,47177,Mitt Romney,republican,8010,13015,20191203
+2012,Tennessee,Warren,47177,Other,NA,253,13015,20191203
+2012,Tennessee,Washington,47179,Barack Obama,democrat,14325,48032,20191203
+2012,Tennessee,Washington,47179,Mitt Romney,republican,32808,48032,20191203
+2012,Tennessee,Washington,47179,Other,NA,899,48032,20191203
+2012,Tennessee,Wayne,47181,Barack Obama,democrat,1163,5486,20191203
+2012,Tennessee,Wayne,47181,Mitt Romney,republican,4253,5486,20191203
+2012,Tennessee,Wayne,47181,Other,NA,70,5486,20191203
+2012,Tennessee,Weakley,47183,Barack Obama,democrat,3548,12337,20191203
+2012,Tennessee,Weakley,47183,Mitt Romney,republican,8605,12337,20191203
+2012,Tennessee,Weakley,47183,Other,NA,184,12337,20191203
+2012,Tennessee,White,47185,Barack Obama,democrat,2795,9140,20191203
+2012,Tennessee,White,47185,Mitt Romney,republican,6197,9140,20191203
+2012,Tennessee,White,47185,Other,NA,148,9140,20191203
+2012,Tennessee,Williamson,47187,Barack Obama,democrat,25142,96225,20191203
+2012,Tennessee,Williamson,47187,Mitt Romney,republican,69850,96225,20191203
+2012,Tennessee,Williamson,47187,Other,NA,1233,96225,20191203
+2012,Tennessee,Wilson,47189,Barack Obama,democrat,14695,51499,20191203
+2012,Tennessee,Wilson,47189,Mitt Romney,republican,36109,51499,20191203
+2012,Tennessee,Wilson,47189,Other,NA,695,51499,20191203
+2016,Tennessee,Anderson,47001,Hillary Clinton,democrat,9013,29881,20191203
+2016,Tennessee,Anderson,47001,Donald Trump,republican,19212,29881,20191203
+2016,Tennessee,Anderson,47001,Other,NA,1656,29881,20191203
+2016,Tennessee,Bedford,47003,Hillary Clinton,democrat,3395,15355,20191203
+2016,Tennessee,Bedford,47003,Donald Trump,republican,11486,15355,20191203
+2016,Tennessee,Bedford,47003,Other,NA,474,15355,20191203
+2016,Tennessee,Benton,47005,Hillary Clinton,democrat,1474,6328,20191203
+2016,Tennessee,Benton,47005,Donald Trump,republican,4716,6328,20191203
+2016,Tennessee,Benton,47005,Other,NA,138,6328,20191203
+2016,Tennessee,Bledsoe,47007,Hillary Clinton,democrat,897,4664,20191203
+2016,Tennessee,Bledsoe,47007,Donald Trump,republican,3622,4664,20191203
+2016,Tennessee,Bledsoe,47007,Other,NA,145,4664,20191203
+2016,Tennessee,Blount,47009,Hillary Clinton,democrat,12100,52208,20191203
+2016,Tennessee,Blount,47009,Donald Trump,republican,37443,52208,20191203
+2016,Tennessee,Blount,47009,Other,NA,2665,52208,20191203
+2016,Tennessee,Bradley,47011,Hillary Clinton,democrat,7070,38666,20191203
+2016,Tennessee,Bradley,47011,Donald Trump,republican,29768,38666,20191203
+2016,Tennessee,Bradley,47011,Other,NA,1828,38666,20191203
+2016,Tennessee,Campbell,47013,Hillary Clinton,democrat,2248,12532,20191203
+2016,Tennessee,Campbell,47013,Donald Trump,republican,9870,12532,20191203
+2016,Tennessee,Campbell,47013,Other,NA,414,12532,20191203
+2016,Tennessee,Cannon,47015,Hillary Clinton,democrat,1127,5314,20191203
+2016,Tennessee,Cannon,47015,Donald Trump,republican,4007,5314,20191203
+2016,Tennessee,Cannon,47015,Other,NA,180,5314,20191203
+2016,Tennessee,Carroll,47017,Hillary Clinton,democrat,2327,10384,20191203
+2016,Tennessee,Carroll,47017,Donald Trump,republican,7756,10384,20191203
+2016,Tennessee,Carroll,47017,Other,NA,301,10384,20191203
+2016,Tennessee,Carter,47019,Hillary Clinton,democrat,3453,21084,20191203
+2016,Tennessee,Carter,47019,Donald Trump,republican,16898,21084,20191203
+2016,Tennessee,Carter,47019,Other,NA,733,21084,20191203
+2016,Tennessee,Cheatham,47021,Hillary Clinton,democrat,3878,15924,20191203
+2016,Tennessee,Cheatham,47021,Donald Trump,republican,11297,15924,20191203
+2016,Tennessee,Cheatham,47021,Other,NA,749,15924,20191203
+2016,Tennessee,Chester,47023,Hillary Clinton,democrat,1243,6507,20191203
+2016,Tennessee,Chester,47023,Donald Trump,republican,5081,6507,20191203
+2016,Tennessee,Chester,47023,Other,NA,183,6507,20191203
+2016,Tennessee,Claiborne,47025,Hillary Clinton,democrat,1832,10740,20191203
+2016,Tennessee,Claiborne,47025,Donald Trump,republican,8602,10740,20191203
+2016,Tennessee,Claiborne,47025,Other,NA,306,10740,20191203
+2016,Tennessee,Clay,47027,Hillary Clinton,democrat,707,2920,20191203
+2016,Tennessee,Clay,47027,Donald Trump,republican,2141,2920,20191203
+2016,Tennessee,Clay,47027,Other,NA,72,2920,20191203
+2016,Tennessee,Cocke,47029,Hillary Clinton,democrat,1981,12126,20191203
+2016,Tennessee,Cocke,47029,Donald Trump,republican,9791,12126,20191203
+2016,Tennessee,Cocke,47029,Other,NA,354,12126,20191203
+2016,Tennessee,Coffee,47031,Hillary Clinton,democrat,4743,19971,20191203
+2016,Tennessee,Coffee,47031,Donald Trump,republican,14417,19971,20191203
+2016,Tennessee,Coffee,47031,Other,NA,811,19971,20191203
+2016,Tennessee,Crockett,47033,Hillary Clinton,democrat,1303,5397,20191203
+2016,Tennessee,Crockett,47033,Donald Trump,republican,3982,5397,20191203
+2016,Tennessee,Crockett,47033,Other,NA,112,5397,20191203
+2016,Tennessee,Cumberland,47035,Hillary Clinton,democrat,5202,26360,20191203
+2016,Tennessee,Cumberland,47035,Donald Trump,republican,20413,26360,20191203
+2016,Tennessee,Cumberland,47035,Other,NA,745,26360,20191203
+2016,Tennessee,Davidson,47037,Hillary Clinton,democrat,148864,249068,20191203
+2016,Tennessee,Davidson,47037,Donald Trump,republican,84550,249068,20191203
+2016,Tennessee,Davidson,47037,Other,NA,15654,249068,20191203
+2016,Tennessee,Decatur,47039,Hillary Clinton,democrat,894,4592,20191203
+2016,Tennessee,Decatur,47039,Donald Trump,republican,3588,4592,20191203
+2016,Tennessee,Decatur,47039,Other,NA,110,4592,20191203
+2016,Tennessee,DeKalb,47041,Hillary Clinton,democrat,1569,6955,20191203
+2016,Tennessee,DeKalb,47041,Donald Trump,republican,5171,6955,20191203
+2016,Tennessee,DeKalb,47041,Other,NA,215,6955,20191203
+2016,Tennessee,Dickson,47043,Hillary Clinton,democrat,4722,18699,20191203
+2016,Tennessee,Dickson,47043,Donald Trump,republican,13233,18699,20191203
+2016,Tennessee,Dickson,47043,Other,NA,744,18699,20191203
+2016,Tennessee,Dyer,47045,Hillary Clinton,democrat,2816,13336,20191203
+2016,Tennessee,Dyer,47045,Donald Trump,republican,10180,13336,20191203
+2016,Tennessee,Dyer,47045,Other,NA,340,13336,20191203
+2016,Tennessee,Fayette,47047,Hillary Clinton,democrat,5874,19394,20191203
+2016,Tennessee,Fayette,47047,Donald Trump,republican,13055,19394,20191203
+2016,Tennessee,Fayette,47047,Other,NA,465,19394,20191203
+2016,Tennessee,Fentress,47049,Hillary Clinton,democrat,1100,7333,20191203
+2016,Tennessee,Fentress,47049,Donald Trump,republican,6038,7333,20191203
+2016,Tennessee,Fentress,47049,Other,NA,195,7333,20191203
+2016,Tennessee,Franklin,47051,Hillary Clinton,democrat,4374,16404,20191203
+2016,Tennessee,Franklin,47051,Donald Trump,republican,11532,16404,20191203
+2016,Tennessee,Franklin,47051,Other,NA,498,16404,20191203
+2016,Tennessee,Gibson,47053,Hillary Clinton,democrat,5258,19547,20191203
+2016,Tennessee,Gibson,47053,Donald Trump,republican,13786,19547,20191203
+2016,Tennessee,Gibson,47053,Other,NA,503,19547,20191203
+2016,Tennessee,Giles,47055,Hillary Clinton,democrat,2917,11137,20191203
+2016,Tennessee,Giles,47055,Donald Trump,republican,7970,11137,20191203
+2016,Tennessee,Giles,47055,Other,NA,250,11137,20191203
+2016,Tennessee,Grainger,47057,Hillary Clinton,democrat,1154,8008,20191203
+2016,Tennessee,Grainger,47057,Donald Trump,republican,6626,8008,20191203
+2016,Tennessee,Grainger,47057,Other,NA,228,8008,20191203
+2016,Tennessee,Greene,47059,Hillary Clinton,democrat,4216,23583,20191203
+2016,Tennessee,Greene,47059,Donald Trump,republican,18562,23583,20191203
+2016,Tennessee,Greene,47059,Other,NA,805,23583,20191203
+2016,Tennessee,Grundy,47061,Hillary Clinton,democrat,999,4763,20191203
+2016,Tennessee,Grundy,47061,Donald Trump,republican,3636,4763,20191203
+2016,Tennessee,Grundy,47061,Other,NA,128,4763,20191203
+2016,Tennessee,Hamblen,47063,Hillary Clinton,democrat,4075,20692,20191203
+2016,Tennessee,Hamblen,47063,Donald Trump,republican,15857,20692,20191203
+2016,Tennessee,Hamblen,47063,Other,NA,760,20692,20191203
+2016,Tennessee,Hamilton,47065,Hillary Clinton,democrat,55316,142408,20191203
+2016,Tennessee,Hamilton,47065,Donald Trump,republican,78733,142408,20191203
+2016,Tennessee,Hamilton,47065,Other,NA,8359,142408,20191203
+2016,Tennessee,Hancock,47067,Hillary Clinton,democrat,322,2231,20191203
+2016,Tennessee,Hancock,47067,Donald Trump,republican,1843,2231,20191203
+2016,Tennessee,Hancock,47067,Other,NA,66,2231,20191203
+2016,Tennessee,Hardeman,47069,Hillary Clinton,democrat,4185,9273,20191203
+2016,Tennessee,Hardeman,47069,Donald Trump,republican,4919,9273,20191203
+2016,Tennessee,Hardeman,47069,Other,NA,169,9273,20191203
+2016,Tennessee,Hardin,47071,Hillary Clinton,democrat,1622,9949,20191203
+2016,Tennessee,Hardin,47071,Donald Trump,republican,8012,9949,20191203
+2016,Tennessee,Hardin,47071,Other,NA,315,9949,20191203
+2016,Tennessee,Hawkins,47073,Hillary Clinton,democrat,3507,20774,20191203
+2016,Tennessee,Hawkins,47073,Donald Trump,republican,16648,20774,20191203
+2016,Tennessee,Hawkins,47073,Other,NA,619,20774,20191203
+2016,Tennessee,Haywood,47075,Hillary Clinton,democrat,3711,6834,20191203
+2016,Tennessee,Haywood,47075,Donald Trump,republican,3013,6834,20191203
+2016,Tennessee,Haywood,47075,Other,NA,110,6834,20191203
+2016,Tennessee,Henderson,47077,Hillary Clinton,democrat,1800,10217,20191203
+2016,Tennessee,Henderson,47077,Donald Trump,republican,8138,10217,20191203
+2016,Tennessee,Henderson,47077,Other,NA,279,10217,20191203
+2016,Tennessee,Henry,47079,Hillary Clinton,democrat,3063,12945,20191203
+2016,Tennessee,Henry,47079,Donald Trump,republican,9508,12945,20191203
+2016,Tennessee,Henry,47079,Other,NA,374,12945,20191203
+2016,Tennessee,Hickman,47081,Hillary Clinton,democrat,1824,7813,20191203
+2016,Tennessee,Hickman,47081,Donald Trump,republican,5695,7813,20191203
+2016,Tennessee,Hickman,47081,Other,NA,294,7813,20191203
+2016,Tennessee,Houston,47083,Hillary Clinton,democrat,866,3168,20191203
+2016,Tennessee,Houston,47083,Donald Trump,republican,2182,3168,20191203
+2016,Tennessee,Houston,47083,Other,NA,120,3168,20191203
+2016,Tennessee,Humphreys,47085,Hillary Clinton,democrat,1967,7153,20191203
+2016,Tennessee,Humphreys,47085,Donald Trump,republican,4930,7153,20191203
+2016,Tennessee,Humphreys,47085,Other,NA,256,7153,20191203
+2016,Tennessee,Jackson,47087,Hillary Clinton,democrat,1129,4466,20191203
+2016,Tennessee,Jackson,47087,Donald Trump,republican,3236,4466,20191203
+2016,Tennessee,Jackson,47087,Other,NA,101,4466,20191203
+2016,Tennessee,Jefferson,47089,Hillary Clinton,democrat,3494,19072,20191203
+2016,Tennessee,Jefferson,47089,Donald Trump,republican,14776,19072,20191203
+2016,Tennessee,Jefferson,47089,Other,NA,802,19072,20191203
+2016,Tennessee,Johnson,47091,Hillary Clinton,democrat,988,6579,20191203
+2016,Tennessee,Johnson,47091,Donald Trump,republican,5410,6579,20191203
+2016,Tennessee,Johnson,47091,Other,NA,181,6579,20191203
+2016,Tennessee,Knox,47093,Hillary Clinton,democrat,62878,180697,20191203
+2016,Tennessee,Knox,47093,Donald Trump,republican,105767,180697,20191203
+2016,Tennessee,Knox,47093,Other,NA,12052,180697,20191203
+2016,Tennessee,Lake,47095,Hillary Clinton,democrat,577,1970,20191203
+2016,Tennessee,Lake,47095,Donald Trump,republican,1357,1970,20191203
+2016,Tennessee,Lake,47095,Other,NA,36,1970,20191203
+2016,Tennessee,Lauderdale,47097,Hillary Clinton,democrat,3056,8087,20191203
+2016,Tennessee,Lauderdale,47097,Donald Trump,republican,4884,8087,20191203
+2016,Tennessee,Lauderdale,47097,Other,NA,147,8087,20191203
+2016,Tennessee,Lawrence,47099,Hillary Clinton,democrat,2821,15666,20191203
+2016,Tennessee,Lawrence,47099,Donald Trump,republican,12420,15666,20191203
+2016,Tennessee,Lawrence,47099,Other,NA,425,15666,20191203
+2016,Tennessee,Lewis,47101,Hillary Clinton,democrat,890,4622,20191203
+2016,Tennessee,Lewis,47101,Donald Trump,republican,3585,4622,20191203
+2016,Tennessee,Lewis,47101,Other,NA,147,4622,20191203
+2016,Tennessee,Lincoln,47103,Hillary Clinton,democrat,2554,13348,20191203
+2016,Tennessee,Lincoln,47103,Donald Trump,republican,10398,13348,20191203
+2016,Tennessee,Lincoln,47103,Other,NA,396,13348,20191203
+2016,Tennessee,Loudon,47105,Hillary Clinton,democrat,4919,23391,20191203
+2016,Tennessee,Loudon,47105,Donald Trump,republican,17610,23391,20191203
+2016,Tennessee,Loudon,47105,Other,NA,862,23391,20191203
+2016,Tennessee,McMinn,47107,Hillary Clinton,democrat,3510,18755,20191203
+2016,Tennessee,McMinn,47107,Donald Trump,republican,14691,18755,20191203
+2016,Tennessee,McMinn,47107,Other,NA,554,18755,20191203
+2016,Tennessee,McNairy,47109,Hillary Clinton,democrat,1848,10038,20191203
+2016,Tennessee,McNairy,47109,Donald Trump,republican,7841,10038,20191203
+2016,Tennessee,McNairy,47109,Other,NA,349,10038,20191203
+2016,Tennessee,Macon,47111,Hillary Clinton,democrat,1072,7504,20191203
+2016,Tennessee,Macon,47111,Donald Trump,republican,6263,7504,20191203
+2016,Tennessee,Macon,47111,Other,NA,169,7504,20191203
+2016,Tennessee,Madison,47113,Hillary Clinton,democrat,15448,38120,20191203
+2016,Tennessee,Madison,47113,Donald Trump,republican,21335,38120,20191203
+2016,Tennessee,Madison,47113,Other,NA,1337,38120,20191203
+2016,Tennessee,Marion,47115,Hillary Clinton,democrat,2832,10862,20191203
+2016,Tennessee,Marion,47115,Donald Trump,republican,7696,10862,20191203
+2016,Tennessee,Marion,47115,Other,NA,334,10862,20191203
+2016,Tennessee,Marshall,47117,Hillary Clinton,democrat,2852,11455,20191203
+2016,Tennessee,Marshall,47117,Donald Trump,republican,8184,11455,20191203
+2016,Tennessee,Marshall,47117,Other,NA,419,11455,20191203
+2016,Tennessee,Maury,47119,Hillary Clinton,democrat,10038,35369,20191203
+2016,Tennessee,Maury,47119,Donald Trump,republican,23799,35369,20191203
+2016,Tennessee,Maury,47119,Other,NA,1532,35369,20191203
+2016,Tennessee,Meigs,47121,Hillary Clinton,democrat,856,4320,20191203
+2016,Tennessee,Meigs,47121,Donald Trump,republican,3342,4320,20191203
+2016,Tennessee,Meigs,47121,Other,NA,122,4320,20191203
+2016,Tennessee,Monroe,47123,Hillary Clinton,democrat,3186,17093,20191203
+2016,Tennessee,Monroe,47123,Donald Trump,republican,13374,17093,20191203
+2016,Tennessee,Monroe,47123,Other,NA,533,17093,20191203
+2016,Tennessee,Montgomery,47125,Hillary Clinton,democrat,21699,57620,20191203
+2016,Tennessee,Montgomery,47125,Donald Trump,republican,32341,57620,20191203
+2016,Tennessee,Montgomery,47125,Other,NA,3580,57620,20191203
+2016,Tennessee,Moore,47127,Hillary Clinton,democrat,496,2926,20191203
+2016,Tennessee,Moore,47127,Donald Trump,republican,2325,2926,20191203
+2016,Tennessee,Moore,47127,Other,NA,105,2926,20191203
+2016,Tennessee,Morgan,47129,Hillary Clinton,democrat,1054,6705,20191203
+2016,Tennessee,Morgan,47129,Donald Trump,republican,5441,6705,20191203
+2016,Tennessee,Morgan,47129,Other,NA,210,6705,20191203
+2016,Tennessee,Obion,47131,Hillary Clinton,democrat,2426,12249,20191203
+2016,Tennessee,Obion,47131,Donald Trump,republican,9526,12249,20191203
+2016,Tennessee,Obion,47131,Other,NA,297,12249,20191203
+2016,Tennessee,Overton,47133,Hillary Clinton,democrat,1945,8229,20191203
+2016,Tennessee,Overton,47133,Donald Trump,republican,6059,8229,20191203
+2016,Tennessee,Overton,47133,Other,NA,225,8229,20191203
+2016,Tennessee,Perry,47135,Hillary Clinton,democrat,597,2855,20191203
+2016,Tennessee,Perry,47135,Donald Trump,republican,2167,2855,20191203
+2016,Tennessee,Perry,47135,Other,NA,91,2855,20191203
+2016,Tennessee,Pickett,47137,Hillary Clinton,democrat,536,2615,20191203
+2016,Tennessee,Pickett,47137,Donald Trump,republican,2021,2615,20191203
+2016,Tennessee,Pickett,47137,Other,NA,58,2615,20191203
+2016,Tennessee,Polk,47139,Hillary Clinton,democrat,1252,6520,20191203
+2016,Tennessee,Polk,47139,Donald Trump,republican,5097,6520,20191203
+2016,Tennessee,Polk,47139,Other,NA,171,6520,20191203
+2016,Tennessee,Putnam,47141,Hillary Clinton,democrat,6851,27212,20191203
+2016,Tennessee,Putnam,47141,Donald Trump,republican,19002,27212,20191203
+2016,Tennessee,Putnam,47141,Other,NA,1359,27212,20191203
+2016,Tennessee,Rhea,47143,Hillary Clinton,democrat,1942,11062,20191203
+2016,Tennessee,Rhea,47143,Donald Trump,republican,8660,11062,20191203
+2016,Tennessee,Rhea,47143,Other,NA,460,11062,20191203
+2016,Tennessee,Roane,47145,Hillary Clinton,democrat,4837,21669,20191203
+2016,Tennessee,Roane,47145,Donald Trump,republican,15880,21669,20191203
+2016,Tennessee,Roane,47145,Other,NA,952,21669,20191203
+2016,Tennessee,Robertson,47147,Hillary Clinton,democrat,6637,27113,20191203
+2016,Tennessee,Robertson,47147,Donald Trump,republican,19410,27113,20191203
+2016,Tennessee,Robertson,47147,Other,NA,1066,27113,20191203
+2016,Tennessee,Rutherford,47149,Hillary Clinton,democrat,36706,107436,20191203
+2016,Tennessee,Rutherford,47149,Donald Trump,republican,64515,107436,20191203
+2016,Tennessee,Rutherford,47149,Other,NA,6215,107436,20191203
+2016,Tennessee,Scott,47151,Hillary Clinton,democrat,934,7123,20191203
+2016,Tennessee,Scott,47151,Donald Trump,republican,6044,7123,20191203
+2016,Tennessee,Scott,47151,Other,NA,145,7123,20191203
+2016,Tennessee,Sequatchie,47153,Hillary Clinton,democrat,1053,5694,20191203
+2016,Tennessee,Sequatchie,47153,Donald Trump,republican,4441,5694,20191203
+2016,Tennessee,Sequatchie,47153,Other,NA,200,5694,20191203
+2016,Tennessee,Sevier,47155,Hillary Clinton,democrat,6297,36312,20191203
+2016,Tennessee,Sevier,47155,Donald Trump,republican,28629,36312,20191203
+2016,Tennessee,Sevier,47155,Other,NA,1386,36312,20191203
+2016,Tennessee,Shelby,47157,Hillary Clinton,democrat,208992,337383,20191203
+2016,Tennessee,Shelby,47157,Donald Trump,republican,116344,337383,20191203
+2016,Tennessee,Shelby,47157,Other,NA,12047,337383,20191203
+2016,Tennessee,Smith,47159,Hillary Clinton,democrat,1689,7436,20191203
+2016,Tennessee,Smith,47159,Donald Trump,republican,5494,7436,20191203
+2016,Tennessee,Smith,47159,Other,NA,253,7436,20191203
+2016,Tennessee,Stewart,47161,Hillary Clinton,democrat,1222,5299,20191203
+2016,Tennessee,Stewart,47161,Donald Trump,republican,3864,5299,20191203
+2016,Tennessee,Stewart,47161,Other,NA,213,5299,20191203
+2016,Tennessee,Sullivan,47163,Hillary Clinton,democrat,12578,62278,20191203
+2016,Tennessee,Sullivan,47163,Donald Trump,republican,46979,62278,20191203
+2016,Tennessee,Sullivan,47163,Other,NA,2721,62278,20191203
+2016,Tennessee,Sumner,47165,Hillary Clinton,democrat,18161,71505,20191203
+2016,Tennessee,Sumner,47165,Donald Trump,republican,50129,71505,20191203
+2016,Tennessee,Sumner,47165,Other,NA,3215,71505,20191203
+2016,Tennessee,Tipton,47167,Hillary Clinton,democrat,5785,23481,20191203
+2016,Tennessee,Tipton,47167,Donald Trump,republican,16910,23481,20191203
+2016,Tennessee,Tipton,47167,Other,NA,786,23481,20191203
+2016,Tennessee,Trousdale,47169,Hillary Clinton,democrat,946,3160,20191203
+2016,Tennessee,Trousdale,47169,Donald Trump,republican,2103,3160,20191203
+2016,Tennessee,Trousdale,47169,Other,NA,111,3160,20191203
+2016,Tennessee,Unicoi,47171,Hillary Clinton,democrat,1262,7195,20191203
+2016,Tennessee,Unicoi,47171,Donald Trump,republican,5671,7195,20191203
+2016,Tennessee,Unicoi,47171,Other,NA,262,7195,20191203
+2016,Tennessee,Union,47173,Hillary Clinton,democrat,1012,6247,20191203
+2016,Tennessee,Union,47173,Donald Trump,republican,5053,6247,20191203
+2016,Tennessee,Union,47173,Other,NA,182,6247,20191203
+2016,Tennessee,Van Buren,47175,Hillary Clinton,democrat,539,2419,20191203
+2016,Tennessee,Van Buren,47175,Donald Trump,republican,1820,2419,20191203
+2016,Tennessee,Van Buren,47175,Other,NA,60,2419,20191203
+2016,Tennessee,Warren,47177,Hillary Clinton,democrat,3535,13612,20191203
+2016,Tennessee,Warren,47177,Donald Trump,republican,9540,13612,20191203
+2016,Tennessee,Warren,47177,Other,NA,537,13612,20191203
+2016,Tennessee,Washington,47179,Hillary Clinton,democrat,13024,49750,20191203
+2016,Tennessee,Washington,47179,Donald Trump,republican,34252,49750,20191203
+2016,Tennessee,Washington,47179,Other,NA,2474,49750,20191203
+2016,Tennessee,Wayne,47181,Hillary Clinton,democrat,717,5857,20191203
+2016,Tennessee,Wayne,47181,Donald Trump,republican,5036,5857,20191203
+2016,Tennessee,Wayne,47181,Other,NA,104,5857,20191203
+2016,Tennessee,Weakley,47183,Hillary Clinton,democrat,2772,12184,20191203
+2016,Tennessee,Weakley,47183,Donald Trump,republican,9008,12184,20191203
+2016,Tennessee,Weakley,47183,Other,NA,404,12184,20191203
+2016,Tennessee,White,47185,Hillary Clinton,democrat,1845,9825,20191203
+2016,Tennessee,White,47185,Donald Trump,republican,7671,9825,20191203
+2016,Tennessee,White,47185,Other,NA,309,9825,20191203
+2016,Tennessee,Williamson,47187,Hillary Clinton,democrat,31013,106271,20191203
+2016,Tennessee,Williamson,47187,Donald Trump,republican,68212,106271,20191203
+2016,Tennessee,Williamson,47187,Other,NA,7046,106271,20191203
+2016,Tennessee,Wilson,47189,Hillary Clinton,democrat,14385,56734,20191203
+2016,Tennessee,Wilson,47189,Donald Trump,republican,39406,56734,20191203
+2016,Tennessee,Wilson,47189,Other,NA,2943,56734,20191203
