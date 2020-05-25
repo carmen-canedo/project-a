@@ -35,9 +35,10 @@ I am leaving this commented out so that it does not produce a new .csv very time
 ```
 
 ## Selecting necessary columns
+I added FIPS so that I can merge the data onto the choropleth map later in the project.
 ```{r}
 county_results <- county_results %>% 
-  select(year, county, party, candidate, candidatevotes, totalvotes)
+  select(year, county, party, candidate, candidatevotes, totalvotes, FIPS)
 ```
 
 ## Renaming columns
@@ -45,7 +46,11 @@ I am using the Tidy Data format. Selecting one party so there are no NA values?
 ```{r}
 county_results <- county_results %>% 
   rename(candidate_votes = candidatevotes) %>% 
-  rename(total_votes = totalvotes)
+  rename(total_votes = totalvotes) %>% 
+  rename(county_fips = FIPS)
+
+# Converting county_fips to characters
+county_results$county_fips <- as.character(county_results$county_fips)
 ```
 
 ## Filtering to just one election year and political party
@@ -74,3 +79,20 @@ Talk about different visualization techniques.
 
 ## Choropleth Map
 I am using the `urbanmapr` package and referencing their vignette which can be accessed *[here](https://github.com/UrbanInstitute/urbnmapr/blob/master/vignettes/introducing-urbnmapr.Rmd)*.
+```{r}
+# Filtering counties data set to only Tennessee
+tn_counties <- counties %>% 
+  filter(state_name == "Tennessee")
+
+# Creating map
+tn_counties %>% 
+  ggplot(aes(long, lat, group = group)) +
+  geom_polygon(fill = "grey", color = "#ffffff", size = 0.25) +
+  coord_map(projection = "albers", lat0 = 39, lat1 = 45)
+```
+
+### Merging data on to map
+```{r}
+dem_results_08 <- left_join(county_results_08, tn_counties, by = "county_fips")
+```
+
