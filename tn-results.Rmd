@@ -92,7 +92,18 @@ tn_counties %>%
 ```
 
 ### Merging data on to map
-```{r}
+Using `left_join()` to combine data frames
+```{r, warning=FALSE}
+# Left join
 dem_results_08 <- left_join(county_results_08, tn_counties, by = "county_fips")
+
+# Adding election results to map
+dem_results_08 %>% 
+  ggplot(aes(long, lat, group = group, fill = percent_vote)) +
+  geom_polygon(color = "#ffffff", size = 0.25) +
+  coord_map(projection = "albers", lat0 = 39, lat1 = 45)
+
+# Getting labels
+
 ```
 
