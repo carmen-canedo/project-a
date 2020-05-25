@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -1483,7 +1483,7 @@ window.initializeCodeFolding = function(show) {
 
     // create a collapsable div to wrap the code in
     var div = $('<div class="collapse r-code-collapse"></div>');
-    if (show)
+    if (show || $(this)[0].classList.contains('fold-show'))
       div.addClass('in');
     var id = 'rcode-643E0F36' + currentIndex++;
     div.attr('id', id);
@@ -1613,7 +1613,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -1699,6 +1698,7 @@ summary {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -1711,28 +1711,10 @@ summary {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 <style type="text/css">
 .code-folding-btn { margin-bottom: 4px; }
 </style>
-<script>
-$(document).ready(function () {
-  window.initializeSourceEmbed("tn-results.Rmd");
-  window.initializeCodeFolding("show" === "show");
-});
-</script>
 
 
 
@@ -1771,6 +1753,10 @@ $(document).ready(function () {
 <h1>Loading libraries</h1>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxubGlicmFyeSh0aWR5dmVyc2UpXG5saWJyYXJ5KHVyYm5tYXByKVxuYGBgIn0= -->
+<pre class="r"><code>library(tidyverse)
+library(urbnmapr)</code></pre>
+<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 </div>
@@ -1783,20 +1769,99 @@ $(document).ready(function () {
 </div>
 <div id="cleaning-data" class="section level1">
 <h1>Cleaning data</h1>
-<p>Filtering for Tennessee</p>
+<div id="filtering-for-tennessee" class="section level2">
+<h2>Filtering for Tennessee</h2>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuY291bnR5X3Jlc3VsdHMgPC0gY291bnR5X3Jlc3VsdHMgJT4lIFxuICBmaWx0ZXIoc3RhdGUgPT0gXCJUZW5uZXNzZWVcIikgJT4lIFxuICBzZWxlY3QoLXN0YXRlX3BvLCAtb2ZmaWNlKVxuYGBgIn0= -->
-<pre class="r"><code>county_results &lt;- county_results %&gt;% 
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuIyBOYXJyb3dpbmcgdG8gVGVubmVzc2VlIG9ubHlcbmNvdW50eV9yZXN1bHRzIDwtIGNvdW50eV9yZXN1bHRzICU+JSBcbiAgZmlsdGVyKHN0YXRlID09IFwiVGVubmVzc2VlXCIpICU+JSBcbiAgc2VsZWN0KC1zdGF0ZV9wbywgLW9mZmljZSlcbmBgYCJ9 -->
+<pre class="r"><code># Narrowing to Tennessee only
+county_results &lt;- county_results %&gt;% 
   filter(state == &quot;Tennessee&quot;) %&gt;% 
   select(-state_po, -office)</code></pre>
 <!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
+<div id="exporting-.csv-of-all-tn-election-data-from-2000-2016" class="section level3">
+<h3>Exporting .csv of all TN election data from 2000-2016</h3>
+<p>I am leaving this commented out so that it does not produce a new .csv very time.</p>
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuIyBXcml0aW5nIC5jc3Ygb2YgZnVsbCBUZW5uZXNzZWUgZGF0YSAoZm9yIGxhYiBzdWJtaXNzaW9uIG9ubHkpXG4jIHdyaXRlX2Nzdihjb3VudHlfcmVzdWx0cywgXCJUZW5uZXNzZWUuY3N2XCIpXG5gYGAifQ== -->
+<pre class="r"><code># Writing .csv of full Tennessee data (for lab submission only)
+# write_csv(county_results, &quot;Tennessee.csv&quot;)</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+</div>
+</div>
+<div id="selecting-necessary-columns" class="section level2">
+<h2>Selecting necessary columns</h2>
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuY291bnR5X3Jlc3VsdHMgPC0gY291bnR5X3Jlc3VsdHMgJT4lIFxuICBzZWxlY3QoeWVhciwgY291bnR5LCBwYXJ0eSwgY2FuZGlkYXRlLCBjYW5kaWRhdGV2b3RlcywgdG90YWx2b3RlcylcbmBgYCJ9 -->
+<pre class="r"><code>county_results &lt;- county_results %&gt;% 
+  select(year, county, party, candidate, candidatevotes, totalvotes)</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+</div>
+<div id="renaming-columns" class="section level2">
+<h2>Renaming columns</h2>
+<p>I am using the Tidy Data format. Selecting one party so there are no NA values?</p>
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuY291bnR5X3Jlc3VsdHMgPC0gY291bnR5X3Jlc3VsdHMgJT4lIFxuICByZW5hbWUoY2FuZGlkYXRlX3ZvdGVzID0gY2FuZGlkYXRldm90ZXMpICU+JSBcbiAgcmVuYW1lKHRvdGFsX3ZvdGVzID0gdG90YWx2b3RlcylcbmBgYCJ9 -->
+<pre class="r"><code>county_results &lt;- county_results %&gt;% 
+  rename(candidate_votes = candidatevotes) %&gt;% 
+  rename(total_votes = totalvotes)</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+</div>
+<div id="filtering-to-just-one-election-year-and-political-party" class="section level2">
+<h2>Filtering to just one election year and political party</h2>
+<p>2008? Because Obama?</p>
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuY291bnR5X3Jlc3VsdHNfMDggPC0gY291bnR5X3Jlc3VsdHMgJT4lIFxuICBmaWx0ZXIoeWVhciA9PSAyMDA4KSAlPiUgXG4gIGZpbHRlcihwYXJ0eSA9PSBcImRlbW9jcmF0XCIpXG5gYGAifQ== -->
+<pre class="r"><code>county_results_08 &lt;- county_results %&gt;% 
+  filter(year == 2008) %&gt;% 
+  filter(party == &quot;democrat&quot;)</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+</div>
+<div id="calculating-percent-of-vote" class="section level2">
+<h2>Calculating percent of vote</h2>
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuY291bnR5X3Jlc3VsdHNfMDggPC0gY291bnR5X3Jlc3VsdHNfMDggJT4lIFxuICBtdXRhdGUocGVyY2VudF92b3RlID0gMTAwICogKGNhbmRpZGF0ZV92b3RlcyAvIHRvdGFsX3ZvdGVzKSlcbmBgYCJ9 -->
+<pre class="r"><code>county_results_08 &lt;- county_results_08 %&gt;% 
+  mutate(percent_vote = 100 * (candidate_votes / total_votes))</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<div id="exporting-.csv-of-clean-data" class="section level3">
+<h3>Exporting .csv of clean data</h3>
+<p>This .csv file includes data for Barack Obama’s 2008 election results for all counties in Tennessee.</p>
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+</div>
+</div>
+</div>
+<div id="data-visualization" class="section level1">
+<h1>Data visualization</h1>
+<p>Talk about different visualization techniques.</p>
+<div id="choropleth-map" class="section level2">
+<h2>Choropleth Map</h2>
+<p>I am using the <code>urbanmapr</code> package and referencing their vignette which can be accessed <em><a href="https://github.com/UrbanInstitute/urbnmapr/blob/master/vignettes/introducing-urbnmapr.Rmd">here</a></em>.</p>
 <!-- rnb-text-end -->
 </div>
+</div>
 
-<div id="rmd-source-code">LS0tCnRpdGxlOiAiUHJvamVjdCBBIgpvdXRwdXQ6IGh0bWxfbm90ZWJvb2sKZWRpdG9yX29wdGlvbnM6IAogIGNodW5rX291dHB1dF90eXBlOiBpbmxpbmUKLS0tCgojIExvYWRpbmcgbGlicmFyaWVzCmBgYHtyfQpsaWJyYXJ5KG1kc3IpCmBgYAoKCiMgTG9hZCBpbiBkYXRhCmBgYHtyfQpjb3VudHlfcmVzdWx0cyA8LSByZWFkLmNzdigiY291bnR5cHJlc18yMDAwLTIwMTYuY3N2IikKYGBgCgojIENsZWFuaW5nIGRhdGEKRmlsdGVyaW5nIGZvciBUZW5uZXNzZWUKYGBge3J9CmNvdW50eV9yZXN1bHRzIDwtIGNvdW50eV9yZXN1bHRzICU+JSAKICBmaWx0ZXIoc3RhdGUgPT0gIlRlbm5lc3NlZSIpICU+JSAKICBzZWxlY3QoLXN0YXRlX3BvLCAtb2ZmaWNlKQpgYGAKCg==</div>
+<div id="rmd-source-code">LS0tCnRpdGxlOiAiUHJvamVjdCBBIgpvdXRwdXQ6IGh0bWxfbm90ZWJvb2sKZWRpdG9yX29wdGlvbnM6IAogIGNodW5rX291dHB1dF90eXBlOiBpbmxpbmUKLS0tCgojIExvYWRpbmcgbGlicmFyaWVzCmBgYHtyLCBtZXNzYWdlPUZBTFNFfQpsaWJyYXJ5KHRpZHl2ZXJzZSkKbGlicmFyeSh1cmJubWFwcikKYGBgCgojIExvYWQgaW4gZGF0YQpgYGB7cn0KIyBJbXBvcnRpbmcgZGF0YSBmcm9tIGFsbCBzdGF0ZXMKY291bnR5X3Jlc3VsdHMgPC0gcmVhZC5jc3YoImNvdW50eXByZXNfMjAwMC0yMDE2LmNzdiIpCmBgYAoKIyBDbGVhbmluZyBkYXRhCgojIyBGaWx0ZXJpbmcgZm9yIFRlbm5lc3NlZQpgYGB7cn0KIyBOYXJyb3dpbmcgdG8gVGVubmVzc2VlIG9ubHkKY291bnR5X3Jlc3VsdHMgPC0gY291bnR5X3Jlc3VsdHMgJT4lIAogIGZpbHRlcihzdGF0ZSA9PSAiVGVubmVzc2VlIikgJT4lIAogIHNlbGVjdCgtc3RhdGVfcG8sIC1vZmZpY2UpCmBgYAoKIyMjIEV4cG9ydGluZyAuY3N2IG9mIGFsbCBUTiBlbGVjdGlvbiBkYXRhIGZyb20gMjAwMC0yMDE2CkkgYW0gbGVhdmluZyB0aGlzIGNvbW1lbnRlZCBvdXQgc28gdGhhdCBpdCBkb2VzIG5vdCBwcm9kdWNlIGEgbmV3IC5jc3YgdmVyeSB0aW1lLgpgYGB7cn0KIyBXcml0aW5nIC5jc3Ygb2YgZnVsbCBUZW5uZXNzZWUgZGF0YSAoZm9yIGxhYiBzdWJtaXNzaW9uIG9ubHkpCiMgd3JpdGVfY3N2KGNvdW50eV9yZXN1bHRzLCAiVGVubmVzc2VlLmNzdiIpCmBgYAoKIyMgU2VsZWN0aW5nIG5lY2Vzc2FyeSBjb2x1bW5zCmBgYHtyfQpjb3VudHlfcmVzdWx0cyA8LSBjb3VudHlfcmVzdWx0cyAlPiUgCiAgc2VsZWN0KHllYXIsIGNvdW50eSwgcGFydHksIGNhbmRpZGF0ZSwgY2FuZGlkYXRldm90ZXMsIHRvdGFsdm90ZXMpCmBgYAoKIyMgUmVuYW1pbmcgY29sdW1ucwpJIGFtIHVzaW5nIHRoZSBUaWR5IERhdGEgZm9ybWF0LiBTZWxlY3Rpbmcgb25lIHBhcnR5IHNvIHRoZXJlIGFyZSBubyBOQSB2YWx1ZXM/CmBgYHtyfQpjb3VudHlfcmVzdWx0cyA8LSBjb3VudHlfcmVzdWx0cyAlPiUgCiAgcmVuYW1lKGNhbmRpZGF0ZV92b3RlcyA9IGNhbmRpZGF0ZXZvdGVzKSAlPiUgCiAgcmVuYW1lKHRvdGFsX3ZvdGVzID0gdG90YWx2b3RlcykKYGBgCgojIyBGaWx0ZXJpbmcgdG8ganVzdCBvbmUgZWxlY3Rpb24geWVhciBhbmQgcG9saXRpY2FsIHBhcnR5CjIwMDg/IEJlY2F1c2UgT2JhbWE/CmBgYHtyfQpjb3VudHlfcmVzdWx0c18wOCA8LSBjb3VudHlfcmVzdWx0cyAlPiUgCiAgZmlsdGVyKHllYXIgPT0gMjAwOCkgJT4lIAogIGZpbHRlcihwYXJ0eSA9PSAiZGVtb2NyYXQiKQpgYGAKCiMjIENhbGN1bGF0aW5nIHBlcmNlbnQgb2Ygdm90ZQpgYGB7cn0KY291bnR5X3Jlc3VsdHNfMDggPC0gY291bnR5X3Jlc3VsdHNfMDggJT4lIAogIG11dGF0ZShwZXJjZW50X3ZvdGUgPSAxMDAgKiAoY2FuZGlkYXRlX3ZvdGVzIC8gdG90YWxfdm90ZXMpKQpgYGAKCiMjIyBFeHBvcnRpbmcgLmNzdiBvZiBjbGVhbiBkYXRhClRoaXMgLmNzdiBmaWxlIGluY2x1ZGVzIGRhdGEgZm9yIEJhcmFjayBPYmFtYSdzIDIwMDggZWxlY3Rpb24gcmVzdWx0cyBmb3IgYWxsIGNvdW50aWVzIGluIFRlbm5lc3NlZS4KYGBge3J9CiMgV3JpdGluZyAuY3N2IChmb3IgbGFiIHN1Ym1pc3Npb24gb25seSkKIyB3cml0ZV9jc3YoY291bnR5X3Jlc3VsdHNfMDgsICJ0bi0yMDA4LWRlbW9jcmF0cy5jc3YiKQpgYGAKCiMgRGF0YSB2aXN1YWxpemF0aW9uClRhbGsgYWJvdXQgZGlmZmVyZW50IHZpc3VhbGl6YXRpb24gdGVjaG5pcXVlcy4KCiMjIENob3JvcGxldGggTWFwCkkgYW0gdXNpbmcgdGhlIGB1cmJhbm1hcHJgIHBhY2thZ2UgYW5kIHJlZmVyZW5jaW5nIHRoZWlyIHZpZ25ldHRlIHdoaWNoIGNhbiBiZSBhY2Nlc3NlZCAqW2hlcmVdKGh0dHBzOi8vZ2l0aHViLmNvbS9VcmJhbkluc3RpdHV0ZS91cmJubWFwci9ibG9iL21hc3Rlci92aWduZXR0ZXMvaW50cm9kdWNpbmctdXJibm1hcHIuUm1kKSou</div>
 
 
 
@@ -1825,6 +1890,29 @@ $(document).ready(function () {
 });
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+<script>
+$(document).ready(function () {
+  window.initializeSourceEmbed("tn-results.Rmd");
+  window.initializeCodeFolding("show" === "show");
+});
+</script>
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

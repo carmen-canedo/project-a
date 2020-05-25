@@ -6,21 +6,71 @@ editor_options:
 ---
 
 # Loading libraries
-```{r}
-library(mdsr)
+```{r, message=FALSE}
+library(tidyverse)
+library(urbnmapr)
 ```
-
 
 # Load in data
 ```{r}
+# Importing data from all states
 county_results <- read.csv("countypres_2000-2016.csv")
 ```
 
 # Cleaning data
-Filtering for Tennessee
+
+## Filtering for Tennessee
 ```{r}
+# Narrowing to Tennessee only
 county_results <- county_results %>% 
   filter(state == "Tennessee") %>% 
   select(-state_po, -office)
 ```
 
+### Exporting .csv of all TN election data from 2000-2016
+I am leaving this commented out so that it does not produce a new .csv very time.
+```{r}
+# Writing .csv of full Tennessee data (for lab submission only)
+# write_csv(county_results, "Tennessee.csv")
+```
+
+## Selecting necessary columns
+```{r}
+county_results <- county_results %>% 
+  select(year, county, party, candidate, candidatevotes, totalvotes)
+```
+
+## Renaming columns
+I am using the Tidy Data format. Selecting one party so there are no NA values?
+```{r}
+county_results <- county_results %>% 
+  rename(candidate_votes = candidatevotes) %>% 
+  rename(total_votes = totalvotes)
+```
+
+## Filtering to just one election year and political party
+2008? Because Obama?
+```{r}
+county_results_08 <- county_results %>% 
+  filter(year == 2008) %>% 
+  filter(party == "democrat")
+```
+
+## Calculating percent of vote
+```{r}
+county_results_08 <- county_results_08 %>% 
+  mutate(percent_vote = 100 * (candidate_votes / total_votes))
+```
+
+### Exporting .csv of clean data
+This .csv file includes data for Barack Obama's 2008 election results for all counties in Tennessee.
+```{r}
+# Writing .csv (for lab submission only)
+# write_csv(county_results_08, "tn-2008-democrats.csv")
+```
+
+# Data visualization
+Talk about different visualization techniques.
+
+## Choropleth Map
+I am using the `urbanmapr` package and referencing their vignette which can be accessed *[here](https://github.com/UrbanInstitute/urbnmapr/blob/master/vignettes/introducing-urbnmapr.Rmd)*.
