@@ -16,6 +16,7 @@ editor_options:
 library(tidyverse)
 library(urbnmapr)
 library(RColorBrewer)
+library(hrbrthemes)
 ```
 
 # Load in data
@@ -137,7 +138,28 @@ of percent vote
 
 GO BACK TO EARLIER DATA FRAME `county_results_08`
 ```{r}
+# Creating boxplot
+bp_results <- county_results_08 %>% 
+  ggplot(aes(x = percent_vote)) +
+  geom_boxplot(fill = "#64aacf") +
+  theme_classic()
 
+# Adding text
+bp_results <- bp_results +
+  labs(x = "Percent of Votes Received",
+       y = "",
+       title = "Percent of Votes Cast for Barack Obama \nby Tennessee Democrats in 2008 Presidential Election",
+       subtitle = "Carmen Canedo \n",
+       caption = "\nSource: MIT Election Data & Science Lab | STAT 202, Summer 2020") +
+  theme(axis.text.y = element_blank(),
+        axis.ticks = element_blank(),
+        axis.text.x = element_text(family = "Times New Roman"),
+        plot.title = element_text(family = "Times New Roman", face = "bold"),
+        plot.subtitle = element_text(family = "Times New Roman", face = "italic"),
+        plot.caption = element_text(family = "Times New Roman", face = "plain"))
+  
+
+bp_results
 ```
 
 ## Histogram
@@ -165,7 +187,7 @@ hist_results <- hist_results +
 hist_results <- hist_results +
   labs(x = "Percent of Votes Received",
        y = "Density",
-       title = "Percent of Votes Cast for Barack Obama \nby Tennesse Democrats in 2008 Presidential Election",
+       title = "Percent of Votes Cast for Barack Obama \nby Tennessee Democrats in 2008 Presidential Election",
        subtitle = "Carmen Canedo \n",
        caption = "\nSource: MIT Election Data & Science Lab | STAT 202, Summer 2020") +
   theme(plot.title = element_text(family = "Times New Roman", face = "bold"),
@@ -178,6 +200,22 @@ hist_results
 ## Scatter Plot
 x - percent_vote
 y - total_vote
+
+```{r}
+# Creating scatter plot
+sp_results <- county_results_08 %>% 
+  ggplot(aes(x = percent_vote, y = total_votes)) +
+  geom_point()
+
+# Adding text
+sp_results <- sp_results +
+  labs(x = "Percent of Votes Received for Obama",
+       y = "Total Votes",
+       title " Some Title")
+
+sp_results
+```
+
 
 # Conclusion
 
