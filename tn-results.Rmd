@@ -1,11 +1,15 @@
 ---
 title: "Project A"
+author: "Carmen Canedo"
+date: "May 25, 2020"
 output:
   pdf_document: default
   html_notebook: default
 editor_options:
   chunk_output_type: inline
 ---
+
+# Intoduction
 
 # Loading libraries
 ```{r, message=FALSE}
@@ -113,16 +117,38 @@ dem_results_08 <- dem_results_08 +
   scale_fill_gradient(low = "#9ECAE1", high = "#2171B5") +
   theme(legend.position = "right",
         legend.direction = "vertical",
-        legend.title = element_text(face = "bold", size = 11)) +
+        legend.title = element_text(family = "Times New Roman", face = "bold", size = 11)) +
   labs(fill = "Percent of Votes \nReceived")
 
 # Adding titles
 dem_results_08 <- dem_results_08 +
-  labs(title = "Percentage of Votes Received in Tennessee \nfor Barack Obama in 2008 Presidential Election \n",
+  labs(title = "Percentage of Votes Received in Tennessee \n for Barack Obama in 2008 Presidential Election",
        subtitle = "Carmen Canedo \n",
-       caption = "\nSource: MIT Election Lab | STAT 202, Summer 2020") #+
-  #theme(plot.title = element_text())
+       caption = "\nSource: MIT Election Data & Science Lab | STAT 202, Summer 2020") +
+  theme(plot.title = element_text(family = "Times New Roman", face = "bold"),
+        plot.subtitle = element_text(family = "Times New Roman", face = "italic"),
+        plot.caption = element_text(family = "Times New Roman", face = "plain"))
 
 dem_results_08
 ```
+
+## Boxplot
+of percent vote
+
+GO BACK TO EARLIER DATA FRAME `county_results_08`
+```{r}
+
+```
+
+## Histogram
+of percent vote
+```{r}
+
+```
+
+## Scatter Plot
+x - percent_vote
+y - total_vote
+
+# Conclusion
 
