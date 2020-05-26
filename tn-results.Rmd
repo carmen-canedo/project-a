@@ -143,7 +143,36 @@ GO BACK TO EARLIER DATA FRAME `county_results_08`
 ## Histogram
 of percent vote
 ```{r}
+# Creates base for histogram
+hist_results <- county_results_08 %>% 
+  ggplot(aes(x = percent_vote, y = ..density..)) +
+  geom_histogram(binwidth = 2,
+                 color = "black",
+                 fill = "white") +
+  theme_minimal()
 
+# Adds median line
+hist_results <- hist_results +
+  geom_vline(aes(xintercept = median(percent_vote)),
+             color = "red",
+             linetype = "dashed")
+
+# Changing the look of the density
+hist_results <- hist_results +
+  geom_density(alpha = 0.75, fill = "light blue")
+
+# Adding text
+hist_results <- hist_results +
+  labs(x = "Percent of Votes Received",
+       y = "Density",
+       title = "Percent of Votes Cast for Barack Obama \nby Tennesse Democrats in 2008 Presidential Election",
+       subtitle = "Carmen Canedo \n",
+       caption = "\nSource: MIT Election Data & Science Lab | STAT 202, Summer 2020") +
+  theme(plot.title = element_text(family = "Times New Roman", face = "bold"),
+        plot.subtitle = element_text(family = "Times New Roman", face = "italic"),
+        plot.caption = element_text(family = "Times New Roman", face = "plain"))
+
+hist_results
 ```
 
 ## Scatter Plot
