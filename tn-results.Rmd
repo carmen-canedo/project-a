@@ -1,7 +1,9 @@
 ---
 title: "Project A"
-output: html_notebook
-editor_options: 
+output:
+  pdf_document: default
+  html_notebook: default
+editor_options:
   chunk_output_type: inline
 ---
 
@@ -106,13 +108,20 @@ dem_results_08 <-  dem_results_08 %>%
   coord_map(projection = "albers", lat0 = 39, lat1 = 45) +
   theme_void()
 
-# Adding details to map
+# Adding color to map
 dem_results_08 <- dem_results_08 +
   scale_fill_gradient(low = "#9ECAE1", high = "#2171B5") +
   theme(legend.position = "right",
         legend.direction = "vertical",
         legend.title = element_text(face = "bold", size = 11)) +
   labs(fill = "Percent of Votes \nReceived")
+
+# Adding titles
+dem_results_08 <- dem_results_08 +
+  labs(title = "Percentage of Votes Received in Tennessee \nfor Barack Obama in 2008 Presidential Election \n",
+       subtitle = "Carmen Canedo \n",
+       caption = "\nSource: MIT Election Lab | STAT 202, Summer 2020") #+
+  #theme(plot.title = element_text())
 
 dem_results_08
 ```
