@@ -1,7 +1,8 @@
 ---
 title: "Project A"
+subtitle: "STAT 202"
 author: "Carmen Canedo"
-date: "May 25, 2020"
+date: "May 30, 2020"
 output:
   pdf_document: default
   html_notebook: default
@@ -12,11 +13,13 @@ editor_options:
 # Intoduction
 The 2008 presidential election between John McCain and Barack Obama resulted in the unprecedented feat of the election of the United States' first African American president. This is the first presidential election that I remember being aware of, and as such, I wanted to find out to what extent my home state's electorate supported Barack Obama. 
 
-Tennessee has three major metropolitan areas: Nashville, Memphis, and Knoxville. Their location can be seen below in Figure 1, provided from *[Nations Online](https://www.nationsonline.org/oneworld/map/USA/tennessee_map.htm)*.
+Tennessee has three major metropolitan areas: Nashville, Memphis, and Knoxville. Their location can be seen below in Figure 1, provided from *[Nations Online](https://www.nationsonline.org/oneworld/map/USA/tennessee_map.htm)*\*.
 
 ![Map of Tennessee](Tennessee_map.jpg)
 
-In order to get an understanding of how many votes Barack Obama received in Tennessee during the 2008 election, we are going to look a the data from the county-level. Below we we will use a choropleth map, boxplot, histogram, and scatter plot to visualize the results using data from the *[MIT Election Data & Science Lab](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ)*. To reproduce the visualizations below, it is necessary to install and load the following packages before proceeding.
+In order to get an understanding of how many votes Barack Obama received in Tennessee during the 2008 election, we are going to look a the data from the county-level. Below we will use a choropleth map, boxplot, histogram, and scatter plot to visualize the results using data from the *[MIT Election Data & Science Lab](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ)*. To reproduce the visualizations below, it is necessary to install and load the following packages before proceeding.
+
+\***Note, I use italicized text to indicate text that is a URL to my references**
 
 # Loading libraries
 ```{r, message=FALSE}
@@ -26,7 +29,7 @@ library(RColorBrewer)
 library(hrbrthemes)
 ```
 
-# Load in data
+# Loading data
 Now, we will begin to take a closer look at the data by loading the .csv file into the R session.
 ```{r}
 # Importing data from all states
@@ -111,7 +114,7 @@ tn_counties %>%
   theme_void()
 ```
 
-### Merging data on to map
+### Merging data onto map
 Here I am using `left_join()` to combine my data frame that contains election data with their data frame that contains the latitude and longitudes required for creating the map, and this will allow us to add color based on the percent of vote by county.
 ```{r, warning=FALSE}
 # Left join
@@ -180,10 +183,10 @@ Similarly to the boxplot, we use histograms to measure the spread of a data set.
 ```{r}
 # Creates base for histogram
 hist_results <- county_results_08 %>% 
-  ggplot(aes(x = percent_vote, y = ..density..)) +
+  ggplot(aes(x = percent_vote)) +
   geom_histogram(binwidth = 2,
                  color = "black",
-                 fill = "white") +
+                 fill = "light blue") +
   theme_minimal()
 
 # Adds median line
@@ -192,14 +195,10 @@ hist_results <- hist_results +
              color = "red",
              linetype = "dashed")
 
-# Changing the look of the density
-hist_results <- hist_results +
-  geom_density(alpha = 0.75, fill = "light blue")
-
 # Adding text
 hist_results <- hist_results +
   labs(x = "Percent of Votes Received",
-       y = "Density",
+       y = "Count of Counties",
        title = "Percent of Votes Cast for Barack Obama \nby Tennessee Democrats in 2008 Presidential Election",
        subtitle = "Carmen Canedo \n",
        caption = "\nSource: MIT Election Data & Science Lab | STAT 202, Summer 2020") +
@@ -235,4 +234,4 @@ sp_results
 
 
 # Conclusion
-Ultimately, it seems that most counties in Tennessee ended up having the majority of votes go to the Republican candidate John McCain. 
+Ultimately, it seems that most counties in Tennessee ended up having the majority of votes go to the Republican candidate John McCain. The counties where Obama received the most votes are counties with the highest amount of people of color in the state, per the *[Tennessee Arts Commission](https://tnartscommission.org/tn-county-demographics/)*, and have some of the largest metro areas. The state capitol, Nashville, is located in Davidson County, where a third of the population is people of color. Shelby County, where Memphis is located, and Haywood County have the *[majority population of African Americans](https://en.wikipedia.org/wiki/Haywood_County,_Tennessee)*. Perhaps in future research, I will delve deeper into the data and see if there is a relationship between race and political party, but from a surface-level analysis, it appears that in Tennessee, the counties with a higher percentage of people of color had a higher percent of votes received for Obama.
