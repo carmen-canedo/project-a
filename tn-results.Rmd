@@ -10,6 +10,11 @@ editor_options:
 ---
 
 # Intoduction
+The 2008 presidential election between John McCain and Barack Obama resulted in the unprecedented feat of the election of the United States' first African American president. This is the first presidential election that I remember being aware of, and as such, I wanted to find out to what extent my home state's electorate supported Barack Obama in his first election. 
+
+Tennessee has three major metropolitan areas: Nashville, Memphis, and Knoxville. Their location can be seen in the map provided below from *[Nations Online](https://www.nationsonline.org/oneworld/map/USA/tennessee_map.htm)*.
+
+![Map of Tennessee](Tennessee_map.jpg)
 
 # Loading libraries
 ```{r, message=FALSE}
@@ -205,13 +210,19 @@ y - total_vote
 # Creating scatter plot
 sp_results <- county_results_08 %>% 
   ggplot(aes(x = percent_vote, y = total_votes)) +
-  geom_point()
+  geom_point() +
+  theme_minimal()
 
 # Adding text
 sp_results <- sp_results +
   labs(x = "Percent of Votes Received for Obama",
        y = "Total Votes",
-       title " Some Title")
+       title = "Votes Recieved in Tennessee for Barack Obama in the 2008 Presidential Election",
+       subtitle = "Carmen Canedo \n",
+       caption = "\nSource: MIT Election Data & Science Lab | STAT 202, Summer 2020") +
+    theme(plot.title = element_text(family = "Times New Roman", face = "bold"),
+        plot.subtitle = element_text(family = "Times New Roman", face = "italic"),
+        plot.caption = element_text(family = "Times New Roman", face = "plain"))
 
 sp_results
 ```
